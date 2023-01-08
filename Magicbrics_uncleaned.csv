@@ -1,0 +1,421 @@
+,index,City,Area,Owner,BHK,Floor,price,Carpet_Area,per_sqt
+0,0,bangalore, Kattigenahalli, Omkar Pandey,3,FloorGround out of 4,₹60 Lac ,1000,₹4950
+1,1,bangalore, Ayodaya Nagar, gokul,2,FloorGround out of 4,₹80 Lac ,1150,₹6957
+2,2,bangalore, Electronic City , Thayumanavan,2,Floor4 out of 4,₹48 Lac ,1060,₹4528
+3,3,bangalore, Tumkur Road , Prasanna,3,Floor14 out of 15,₹1.35 Cr ,1790,₹7542
+4,4,bangalore, Kudlu Gate , Akash Akash,2,Floor2 out of 4,₹61 Lac ,803,₹5706
+5,5,bangalore, Hal Stage 2, av nath,3,Floor1 out of 4,₹1.30 Cr ,1640,₹7303
+6,6,bangalore, Murugeshpalya, Sangeeta Pillai,2,Floor3 out of 5,₹50 Lac ,1250,₹5000
+7,7,bangalore, Begur Road , ganga k,3,Basement out of 17,₹1.80 Cr ,1588,₹11335
+8,8,bangalore, Judicial Layout, Anjan K,3,Floor3 out of 14,₹1 Cr ,1000,₹8889
+9,9,bangalore, Bellandur, Omesh Saraf,2,Floor2 out of 10,₹1.02 Cr ,1465,₹6997
+10,10,bangalore, Kasturi Nagar , Mohd Hussain ,3,FloorGround out of 7,₹1.45 Cr ,1500,₹8146
+11,11,bangalore, Koramangala Block 1 , Rahul Jain,3,Floor16 out of 16,₹3.85 Cr ,1418,₹20632
+12,12,bangalore, Sarjapur Road , Gaurav Kumar GAURAV,3,FloorGround out of 5,₹70 Lac ,1350,₹5655
+13,13,bangalore, Devanahalli , Ancy,2,Floor1 out of 7,₹85 Lac ,1000,₹6071
+14,14,bangalore, Hanumantha Nagar, Anoop,2,Floor2 out of 4,₹98 Lac ,1250,₹9800
+15,15,bangalore, , geetha,2,Floor2 out of 5,₹60 Lac ,857,₹6367
+16,16,bangalore, Doddakannelli , Omkar Omkar,2,Floor3 out of 6,₹78 Lac ,753,₹5158
+17,17,bangalore, Electronic City , ruchika,2,Floor1 out of 7,₹57 Lac ,1186,₹6374
+18,18,bangalore, Sarjapur Road , jeswanth,3,Floor1 out of 4,₹1.08 Cr ,1250,₹4553
+19,19,bangalore, Jigani , vikas saxena,3,Floor6 out of 12,₹57 Lac ,770,₹4545
+20,20,bangalore, , Ranju,2,Floor9 out of 9,₹35 Lac ,2150,₹7500
+21,21,bangalore, , tezal,4,Floor1 out of 4,₹1.80 Cr ,1900,₹12500
+22,22,bangalore, Jaya Nagar Block 3 , shravan,3,Floor2 out of 4,₹2.75 Cr ,1460,₹7705
+23,23,bangalore, whitefield , Bhav,3,Floor5 out of 5,₹1.12 Cr ,1885,₹5305
+24,24,bangalore, whitefield , Nagananda,3,Floor2 out of 4,₹1 Cr ,1950,₹7436
+25,25,bangalore, Harlur , MD Fuzail,3,Floor1 out of 3,₹1.45 Cr ,1250,₹5333
+26,26,bangalore, Sarjapur Road , ashwanth,3,Floor13 out of 27,₹80 Lac ,1820,₹7418
+27,27,bangalore, Hoodi, Partha Sarma,3,Floor5 out of 13,₹1.35 Cr ,2060,₹10194
+28,28,bangalore, Haralur Ma, Shekar,3,Floor3 out of 3,₹2.10 Cr ,740,₹4650
+29,29,bangalore, Yelahanka , Sashank Constructions,2,FloorGround out of 4,₹51.2 Lac ,331,₹26471
+30,30,mumbai, Daulat Nagar , K SH,1,Floor8 out of 9,₹73 Lac ,310,₹23276
+31,31,mumbai, Samel Pada , NIYATI,1,Floor1 out of 5,₹22 Lac ,610,₹16667
+32,32,mumbai, Borivali West , Sachin Kunder,2,Floor5 out of 15,₹2.25 Cr ,1160,
+33,33,mumbai, Goregaon West , Motashaw Motashaw,3,Floor4 out of 7,₹2.70 Cr ,665,₹23636
+34,34,mumbai, Vasai East , MONCY BHASKAR,1,FloorGround out of 76,₹41 Lac ,1052,₹37500
+35,35,mumbai, Worli , Anam khan,3,Floor4 out of 4,₹5.99 Cr ,685,₹27136
+36,36,mumbai, Kurla East , Milind Desai,2,FloorGround out of 3,₹1.20 Cr ,400,₹18545
+37,37,mumbai, Andheri East , Jas Baljeet J,1,Floor1 out of 6,₹1.30 Cr ,332,₹60000
+38,38,mumbai, Kandivali East , Gangaram Dhuri,1,Floor5 out of 20,₹65 Lac ,776,₹5047
+39,39,mumbai, Mahim West , Satyajit Satyajit,2,Floor6 out of 12,₹3.75 Cr ,800,
+40,40,mumbai, Borivali West , vasant ahir,2,Floor7 out of 7,₹2.70 Cr ,450,₹11529
+41,41,mumbai, Chembur West , Rajendra,1,FloorGround out of 4,₹1.02 Cr ,430,₹38459
+42,42,mumbai, , Aditi Shah,1,Floor1 out of 3,₹95 Lac ,675,₹7242
+43,43,mumbai, , Haroon mansuri,2,Floor21 out of 21,₹60 Lac ,1870,
+44,44,mumbai, Dadar West , kishor kishor,4,Floor3 out of 3,₹15 Cr ,820,₹10000
+45,45,mumbai, Boisar West , Medha Naik,2,Floor7 out of 21,₹32 Lac ,850,₹14583
+46,46,mumbai, Mira Road , Anita,2,Floor5 out of 7,₹98 Lac ,1172,₹5376
+47,47,mumbai, K, jagdish Dassani,3,Floor5 out of 7,₹4.89 Cr ,404,₹12042
+48,48,mumbai, Virar West , Raghav Sharma,1,Floor4 out of 15,₹44.9 Lac ,575,₹13669
+49,49,mumbai, Vasai West , nandan lanjekar,2,Floor9 out of 15,₹70 Lac ,507,₹19375
+50,50,mumbai, Bhandup West , amit chalke,1,Floor17 out of 18,₹1.05 Cr ,558,₹21333
+51,51,mumbai, Kalyan , Arun Iyer,1,Floor5 out of 12,₹30 Lac ,680,₹33333
+52,52,mumbai, Goregaon East , Ritu,2,Floor7 out of 7,₹1.25 Cr ,1130,₹22951
+53,53,mumbai, Marol Maroshi Road , Khuzema Tajir,3,Floor15 out of 23,₹1.90 Cr ,562,₹10695
+54,54,mumbai, Malad West , Dipti solanki,2,Floor3 out of 4,₹1.55 Cr ,535,₹25316
+55,55,mumbai, Vikhroli East , sujatha,2,Floor2 out of 13,₹1.28 Cr ,590,₹5268
+56,56,mumbai, Juhu , Aysha Khan,1,Floor2 out of 4,₹2 Cr ,792,₹8658
+57,57,mumbai, Andheri East , DHRUV SHARMA,2,Floor1 out of 11,₹2.52 Cr ,935,₹5000
+58,58,mumbai, Jogeshwari West , Mumtaz Nazim,2,Floor1 out of 4,₹1 Cr ,632,₹4444
+59,59,mumbai, Mulund West , Savith Raghavan Savith Raghavan,2,Floor1 out of 2,₹1.60 Cr ,1044,₹8947
+60,60,chennai, Mannivakkam Chennai, Yogesh Baskaran,2,FloorGround out of 2,₹55 Lac ,800,
+61,61,chennai, New Perungalathur Chennai, K VINODH KUMAR,2,Floor2 out of 2,₹80 Lac ,1200,₹4895
+62,62,chennai, Kovilambakkam Chennai, GURURAJAN BABU,3,Floor1 out of 2,₹60 Lac ,1350,₹6111
+63,63,chennai, Perumbakkam Chennai, Vijay Jaya,2,Floor1 out of 2,₹60 Lac ,950,₹5268
+64,64,chennai, Mogappair Chennai, siva,2,Floor1 out of 2,₹85 Lac ,1001,₹5712
+65,65,chennai, Tambaram West Tambaram Chennai, Prasanna,2,Floor4 out of 4,₹49 Lac ,900,₹8367
+66,66,chennai, Manapakkam Chennai, M DINESH KANNA,3,Floor3 out of 5,₹55 Lac ,800,₹8406
+67,67,chennai, Mogappair Chennai, Elango Rajendran,2,Floor16 out of 16,₹53 Lac ,852,
+68,68,chennai, Perumbakkam Chennai, Dev,3,Floor3 out of 4,₹69 Lac ,1494,₹5086
+69,69,chennai, Iyyappanthangal Chennai, vinothan,2,Floor1 out of 2,₹1.25 Cr ,700,₹9140
+70,70,chennai, Manapakkam Chennai, Owner,2,Floor4 out of 4,₹87 Lac ,634,₹6112
+71,71,chennai, Madipakkam Chennai, M G S Jayamalathi,1,Floor3 out of 4,₹32 Lac ,1395,₹7931
+72,72,chennai, Selaiyur Chennai, Mahalingam,2,Floor1 out of 2,₹71 Lac ,930,₹4335
+73,73,chennai, Velachery Chennai, Kads,2,Floor2 out of 4,₹85 Lac ,464,₹11616
+74,74,chennai, Sithalapakkam Chennai, YOGEESWARAN,2,Floor2 out of 2,₹47 Lac ,580,₹4060
+75,75,chennai, Adyar Chennai, Kuppuswamy Bj,1,Floor2 out of 3,₹46 Lac ,509,₹3999
+76,76,chennai, Shankar Nagar Pammal Chennai, Jayalakshmi,2,Floor2 out of 3,₹43 Lac ,990,₹7584
+77,77,chennai, Chennai, Vidhya vidhya,2,Floor1 out of 4,₹1.15 Cr ,445,₹5294
+78,78,chennai, Porur Chennai, Sujith,1,Floor1 out of 3,₹27 Lac ,469,₹6481
+79,79,chennai, Chennai, sakthi,2,Floor1 out of 3,₹29.7 Lac ,778,₹6198
+80,80,chennai, Villivakkam Chennai, Santhosh,2,Floor1 out of 1,₹59 Lac ,850,₹4343
+81,81,chennai, Kundrathur Chennai, Santhosh Developers,2,FloorGround out of 2,₹45 Lac ,540,₹6571
+82,82,chennai, AGS Colony Velachery Chennai, R Premalatha,1,Floor1 out of 2,₹35 Lac ,1194,₹11818
+83,83,chennai, Pallikaranai Chennai, Jebaselvan Navaraj,3,Floor1 out of 1,₹74 Lac ,898,₹5249
+84,84,chennai, Pozhichalur Chennai, Ramkumar Gopalsamy,2,Floor1 out of 2,₹39 Lac ,700,₹6763
+85,85,chennai, Jothi Nagar Chitlapakkam Chennai, ram,2,Floor1 out of 1,₹46 Lac ,600,₹8000
+86,86,chennai, VGP Layout Palavakkam Chennai, Faizal,2,Floor1 out of 4,₹1.30 Cr ,762,₹3242
+87,87,chennai, Perundevi Ammal Nagar Chennai, Vimal Kumar S,2,Floor1 out of 4,₹40 Lac ,1035,₹5143
+88,88,chennai, Gu, Venugopal,2,Floor2 out of 5,₹70 Lac ,800,₹4615
+89,89,chennai, Chennai, PURUSHOTHAMAN,2,Floor10 out of 16,₹74.9 Lac ,1300,₹4000
+90,90,visakhapatnam, , Hari,3,Floor15 out of 16,₹47.5 Lac ,823,₹4667
+91,91,visakhapatnam, , Sl Prasanna,2,FloorGround out of 6,₹72 Lac ,1700,₹4130
+92,92,visakhapatnam, Madhurwada , Sonia,3,Floor2 out of 3,₹97 Lac ,1575,₹4087
+93,93,visakhapatnam, Pendurthi , Ramana Murthy,3,Floor3 out of 5,₹63 Lac ,700,₹7634
+94,94,visakhapatnam, Pithapuram Colony , s bhargavi,2,Floor4 out of 4,₹35 Lac ,1540,₹3619
+95,95,visakhapatnam, Madhurwada , Lakshman,3,Floor1 out of 5,₹63.6 Lac ,1150,₹3046
+96,96,visakhapatnam, Pendurthi , Devi,2,Floor2 out of 4,₹47 Lac ,1310,₹7500
+97,97,visakhapatnam, Visalakshi Nagar , jitendra sai,3,Floor2 out of 5,₹1 Cr ,1000,₹5000
+98,98,visakhapatnam, Balaji Nagar , Ram,2,Floor2 out of 5,₹38 Lac ,915,₹3000
+99,99,visakhapatnam, Sujatha nagar , vakada ramana,2,Basement out of 3,₹30 Lac ,1300,₹3667
+100,100,visakhapatnam, , Ravindra Pamidi,3,Floor2 out of 5,₹97.5 Lac ,600,₹3750
+101,101,visakhapatnam, Mural, Praveen,1,Floor3 out of 5,₹30 Lac ,1000,₹4056
+102,102,visakhapatnam, Poth, Sai Stylish,2,Floor1 out of 5,₹30 Lac ,1300,₹3309
+103,103,visakhapatnam, Kurmannapalem , MADHU,3,Floor2 out of 5,₹55 Lac ,1516,₹5235
+104,104,visakhapatnam, Kurmannapalem , Uma Chavali,3,Floor1 out of 5,₹60 Lac ,1800,₹4118
+105,105,visakhapatnam, Pendurthi , TEJARAM THRI,3,Floor5 out of 5,₹73 Lac ,1100,₹3250
+106,106,visakhapatnam, Kurmannapalem , Jagan,3,Floor1 out of 5,₹45 Lac ,1620,₹6054
+107,107,visakhapatnam, , Rakesh Power,3,Floor2 out of 4,₹89 Lac ,1600,₹5173
+108,108,visakhapatnam, , Maheshwari,3,Floor2 out of 10,₹70 Lac ,970,₹4215
+109,109,visakhapatnam, Kancharapalem , RAMACHANDRA RAO,2,Floor4 out of 5,₹49 Lac ,1133,₹4756
+110,110,visakhapatnam, Kurmannapalem , Jaswanth,2,Floor2 out of 3,₹43.6 Lac ,925,₹3700
+111,111,visakhapatnam, Railway New Colony , Srikanth,2,Floor1 out of 5,₹56 Lac ,1875,₹2600
+112,112,visakhapatnam, Gajuwaka , Akshay Kumar,3,Floor4 out of 5,₹97 Lac ,1050,₹4667
+113,113,visakhapatnam, Aganampudi , swamy m,2,Floor2 out of 5,₹47 Lac ,1640,₹4222
+114,114,visakhapatnam, Madhurwada , lalitha dhulipala,3,Floor1 out of 5,₹78 Lac ,840,₹7091
+115,115,visakhapatnam, Tagarapuvalsa , Vision Properties,3,Floor3 out of 5,₹38.9 Lac ,800,
+116,116,visakhapatnam, Parawada , Honey Group,2,Floor5 out of 5,₹26 Lac ,900,
+117,117,visakhapatnam, PM Palem , New Living Properties,2,Floor3 out of 5,₹42 Lac ,650,
+118,118,visakhapatnam, Madhurwada , podilapu simhachalam,2,,₹38 Lac ,800,
+119,119,visakhapatnam, MVP Colony , Dinakar,2,,₹78 Lac ,,
+120,0,ranchi, H, Waseem Ahmad,3,Floor3 out of 4,₹62 Lac ,1110,₹4655
+121,1,ranchi, , Anuj Krchandra,3,Floor5 out of 6,₹76.4 Lac ,1500,₹4200
+122,2,ranchi, S, Rabindra Bakshi,3,Floor4 out of 4,₹77 Lac ,1150,₹5325
+123,3,ranchi, Ratu Road , Abhishek Gupta,1,Floor2 out of 4,₹31.5 Lac ,573,₹5497
+124,4,ranchi, Harihar S, Shree Ram Developers,3,Floor8 out of 12,₹68.6 Lac ,1560,₹4400
+125,5,ranchi, Bariatu Road , vivek chandra,3,Floor2 out of 4,₹75 Lac ,2010,₹3731
+126,6,ranchi, Morabadi , sushant Bhattacharjee,2,Floor1 out of 4,₹40 Lac ,930,₹3774
+127,7,ranchi, Bahu Bazar , Ritesh Nagpal,3,Floor2 out of 7,₹58 Lac ,1280,₹4531
+128,8,ranchi, , Nitin Kumar,3,Floor4 out of 4,₹60 Lac ,1250,₹4317
+129,9,ranchi, Vikas Nagar , PARTHO BOSE,3,Floor1 out of 1,₹56 Lac ,1500,₹3733
+130,10,ranchi, Bariatu , Pradeep,3,Floor3 out of 4,₹51 Lac ,1385,₹3682
+131,11,ranchi, Hesag , rajesh singh,3,Floor4 out of 6,₹77 Lac ,1212,
+132,12,ranchi, , ashish singh,2,Floor1 out of 4,₹31 Lac ,1000,₹2897
+133,13,ranchi, Barga, sanjeev,2,Floor3 out of 3,₹33 Lac ,800,₹3986
+134,14,ranchi, Sector 2 Masibari , Kshav,3,Floor9 out of 10,₹1.15 Cr ,1925,₹5476
+135,15,ranchi, Upper Chutia , Abhishek,3,Floor4 out of 4,₹68 Lac ,1306,₹5207
+136,16,ranchi, Hazaribag Road , Neeraj,3,Floor4 out of 5,₹82 Lac ,1540,₹5325
+137,17,ranchi, Namkum , Manit Kumar,2,Floor3 out of 4,₹32 Lac ,1180,₹2712
+138,18,ranchi, Lalpur , Mukesh Mukesh,2,FloorGround out of 6,₹58 Lac ,971,₹4629
+139,19,ranchi, Hesag , Samita Chatterjee,2,Floor3 out of 4,₹45 Lac ,950,₹4110
+140,20,ranchi, Kokar , shakuntala verma,2,Floor3 out of 3,₹45 Lac ,1114,₹4039
+141,21,ranchi, BIT Mesra , vikash singh,3,Floor1 out of 11,₹45 Lac ,1053,₹4274
+142,22,ranchi, , Avishek Modi Modi,4,Floor3 out of 4,₹1.25 Cr ,2250,₹5556
+143,23,ranchi, Harihar S, Amar nath Pandey,2,Floor3 out of 3,₹40 Lac ,950,₹3448
+144,24,ranchi, H, MANISH KUMAR,3,Floor2 out of 3,₹48 Lac ,1150,₹3840
+145,25,ranchi, , taha,5,FloorGround out of 8,₹1.05 Cr ,1650,
+146,26,ranchi, Namkum , Rabish Kumar,3,Floor1 out of 4,₹60 Lac ,1338,₹4484
+147,27,ranchi, , Pintu Singh,3,Floor4 out of 4,₹91 Lac ,1760,₹5170
+148,28,ranchi, Bariatu Road , Ravi Prasad,2,Floor1 out of 4,₹48 Lac ,968,₹4800
+149,29,ranchi, Hawai Nagar , Rajiv Ranjan,3,Floor4 out of 8,₹1.25 Cr ,1500,₹8333
+150,30,haridwar, Sidcul , Kiran Kumar Patel,2,FloorGround out of 4,₹41 Lac ,1490,₹2522
+151,31,haridwar, Roshanabad , SHREYA SAGAR,3,FloorGround out of 7,₹77 Lac ,750,₹4529
+152,32,haridwar, Sidcul , Krrish,2,Floor6 out of 8,₹23.5 Lac ,1100,₹2901
+153,33,haridwar, Devpura , Rajendra Wadhwa,3,Floor1 out of 5,₹58 Lac ,650,₹5273
+154,34,haridwar, Laksar Road , Shakti Verma,1,Floor1 out of 4,₹14.3 Lac ,3000,₹2192
+155,35,haridwar, Arya Nagar , Mridul Puri,2,FloorGround out of 2,₹1.90 Cr ,1210,₹5429
+156,36,haridwar, Jwalapur , Manish,3,Floor2 out of 7,₹38 Lac ,719,₹3140
+157,37,haridwar, Roshanabad , Ajay,2,Floor3 out of 7,₹32 Lac ,1450,₹2960
+158,38,haridwar, Patanjali , tarun agarwal,2,Floor6 out of 6,₹50.5 Lac ,1484,₹3483
+159,39,haridwar, Rajaji National Park , Arvind Bhardwaj,3,Floor1 out of 1,₹47 Lac ,1075,₹3167
+160,40,haridwar, Roshanabad , Jasjit Pannu,2,Floor4 out of 6,₹28 Lac ,1388,₹2605
+161,41,haridwar, Jwalapur , Abhishek Chauhan,3,Floor2 out of 5,₹55 Lac ,1025,₹3963
+162,42,haridwar, Jwalapur , sandeep,2,FloorGround out of 4,₹40 Lac ,890,₹3636
+163,43,haridwar, Jwalapur , &quot;Magicbricks User&quot;,2,Floor3 out of 7,₹35 Lac ,1050,₹3500
+164,44,haridwar, , Dinesh Kukreti,3,Floor5 out of 7,₹48 Lac ,500,₹3967
+165,45,haridwar, Roorkee , Shalinirahal Banga,2,FloorGround out of 1,₹58 Lac ,530,₹4531
+166,46,haridwar, Patanjali , Alok Singh,1,FloorGround out of 3,₹16.5 Lac ,650,₹3113
+167,47,haridwar, , saba b Khan,1,FloorGround out of 4,₹25 Lac ,700,₹3846
+168,48,haridwar, Shivalik Nagar , Rahul kumar,1,Floor3 out of 4,₹20 Lac ,650,₹2857
+169,49,haridwar, Shantikunj , SANDEEP KUMAR,1,Floor1 out of 4,₹16 Lac ,1600,₹2133
+170,50,haridwar, Haripur Kalan , Sandeep Chaturvedi,4,Floor2 out of 4,₹67 Lac ,800,₹4295
+171,51,haridwar, , AYUSH SAXENA,2,Floor3 out of 3,₹25 Lac ,867,₹3125
+172,52,haridwar, Kankhal , puneet,1,Floor4 out of 4,₹28 Lac ,1450,₹3230
+173,53,haridwar, Jwalapur , Abhishek chaudhary,2,Floor3 out of 3,₹37 Lac ,900,
+174,54,haridwar, Patanjali , Rishabh Kapoor,2,Floor5 out of 12,₹40 Lac ,1800,₹3687
+175,55,haridwar, NH-58 , Surendra Satija,3,Floor4 out of 5,₹66 Lac ,604,₹3667
+176,56,haridwar, Jwalapur , Harendra Kumar,1,Floor2 out of 2,₹14 Lac ,915,₹2318
+177,57,haridwar, Sidcul , chandra,2,Floor3 out of 7,₹34 Lac ,1700,₹3716
+178,58,haridwar, NH-58 , Rohit,3,Floor2 out of 7,₹65 Lac ,750,₹3824
+179,59,haridwar, Sidcul , Dharmveer,1,Floor4 out of 6,₹22 Lac ,2032,₹2933
+180,60,vadodara, Vasna Bhayli Ma, Samy,3,Floor5 out of 5,₹60 Lac ,1500,₹2953
+181,61,vadodara, Race Course circle , Sudhanshu Kavthekar,3,Floor3 out of 4,₹80 Lac ,900,₹5333
+182,62,vadodara, Ajwa Road , Jaimin Parmar ,2,Floor3 out of 4,₹22 Lac ,780,₹2444
+183,63,vadodara, , paresh,2,Floor1 out of 3,₹31 Lac ,1208,₹3875
+184,64,vadodara, Makar Pura , Mayur Patel,2,Floor5 out of 5,₹25 Lac ,700,₹2941
+185,65,vadodara, Chhani , Parimal Patel,1,Floor2 out of 4,₹23 Lac ,755,₹3286
+186,66,vadodara, Suryanagar , Rakesh,1,Floor6 out of 8,₹15.5 Lac ,1515,₹2053
+187,67,vadodara, Gotri Road Gotri , Bhavik Bhavik Mehta,2,Floor3 out of 4,₹45 Lac ,1900,₹2970
+188,68,vadodara, Vasant Vihar , Jyotsna Khoda,3,Floor4 out of 5,₹79 Lac ,1465,₹4158
+189,69,vadodara, Sevasi , raghuvirsinh Vaghela,4,Floor1 out of 5,₹45 Lac ,1080,₹2093
+190,70,vadodara, Chhani , Pratik gosaliya,2,Floor3 out of 4,₹30 Lac ,450,₹2542
+191,71,vadodara, Nani Bapod , Umakant parmar,1,Floor1 out of 3,₹7.5 Lac ,1010,
+192,72,vadodara, Race Course circle , Akshat Dani,2,Floor3 out of 5,₹45 Lac ,850,
+193,73,vadodara, Kalali , Nimisha,2,Floor5 out of 12,₹35 Lac ,1016,₹3182
+194,74,vadodara, Sama Savli Road , Hitansh Agrawal,3,Floor4 out of 9,₹65 Lac ,1025,₹3683
+195,75,vadodara, Gorwa , anil,3,Floor2 out of 5,₹47 Lac ,800,₹3298
+196,76,vadodara, Bill , mitul patel,2,Floor2 out of 8,₹19.5 Lac ,980,₹1696
+197,77,vadodara, Vasna Bhayli Ma, anil makvana,2,Floor1 out of 3,₹25 Lac ,800,₹2551
+198,78,vadodara, Subhanpura , Manubhai Shah,2,Floor4 out of 5,₹31 Lac ,640,₹2818
+199,79,vadodara, Bhayli , Shashank,2,Floor4 out of 4,₹35 Lac ,1150,
+200,80,vadodara, Danteshwar , Pushpita Roy Choudhury,2,Floor4 out of 9,₹25 Lac ,2358,₹2174
+201,81,vadodara, Vasna Bhayli Ma, namita Namita,3,Floor5 out of 5,₹90 Lac ,900,₹3817
+202,82,vadodara, Gotri Sevasi Road , Deepak Singh,3,Floor9 out of 9,₹50 Lac ,2350,₹5556
+203,83,vadodara, Harni Road , Manish Nagarajan,3,Floor3 out of 4,₹82 Lac ,750,₹3216
+204,84,vadodara, Sayajipura , Ankur Javia,2,Floor5 out of 5,₹19 Lac ,1580,
+205,85,vadodara, Bill , Jigar,4,Floor2 out of 4,₹60 Lac ,200,₹2521
+206,86,vadodara, , Maheshbhai Dhokia,1,Floor1 out of 5,₹8 Lac ,600,₹4000
+207,87,vadodara, Vasna Bhayli Ma, Aniruddha,2,Floor3 out of 5,₹27 Lac ,1650,₹3000
+208,88,vadodara, , Bindi shah,3,Floor2 out of 2,₹42 Lac ,2600,₹2545
+209,89,vadodara, , Jiten chokshi,4,,₹1.20 Cr ,,₹4615
+210,0,greater-noida, Zeta 1 , RAHUL TRIVEDI,2,Floor17 out of 22,₹47.5 Lac ,1200,₹3958
+211,1,greater-noida, Sector P4 , R Bhattacharjee,3,Floor7 out of 9,₹46 Lac ,1120,₹3286
+212,2,greater-noida, Eta 2, Ashutosh,3,Floor8 out of 25,₹37 Lac ,995,
+213,3,greater-noida, Sector 3 , Sandeep gautam,2,Floor1 out of 2,₹24 Lac ,970,₹3719
+214,4,greater-noida, Zeta 1 , vijay,2,Floor8 out of 16,₹48 Lac ,895,₹2474
+215,5,greater-noida, Omicron , PRASAD,3,Floor9 out of 14,₹65.4 Lac ,1775,₹5363
+216,6,greater-noida, Greater Noida West , Kamal Bansal,4,Floor18 out of 32,₹1 Cr ,2364,
+217,7,greater-noida, Eta 2, Avik Dey,2,Floor14 out of 26,₹27 Lac ,660,₹4230
+218,8,greater-noida, Yamuna Expressway , Harkesh Sharma,1,Floor1 out of 4,₹15 Lac ,,₹4091
+219,9,greater-noida, Greater Noida West , Bhagat Singh,2,Floor25 out of 25,₹35 Lac ,950,₹4805
+220,10,greater-noida, , Mangat Rai,2,Floor16 out of 24,₹65 Lac ,995,₹3684
+221,11,greater-noida, Chi 5 , AN SINHA,4,Floor11 out of 22,₹2.10 Cr ,3210,₹6533
+222,12,greater-noida, Jaypee Greens , Nihit,4,Floor6 out of 34,₹3.31 Cr ,3441,₹6542
+223,13,greater-noida, Zeta 1 , Shiv Kumar,4,Floor3 out of 6,₹98 Lac ,2200,₹9001
+224,14,greater-noida, Greater Noida West , Right Value Solutions,2,Floor5 out of 15,₹43.5 Lac ,910,₹3912
+225,15,greater-noida, Omicron 1 , Adhunik Propmart,2,Floor11 out of 20,₹48.5 Lac ,840,₹4780
+226,16,greater-noida, Greater Noida West , Homes And Desire,3,Floor6 out of 23,₹80 Lac ,1530,₹4663
+227,17,greater-noida, Sector 1 Greater Noida West , Investors Lab,2,Floor19 out of 20,₹61.2 Lac ,862,₹5229
+228,18,greater-noida, Greater Noida West , Vardhman Reality,3,Floor12 out of 24,₹56 Lac ,1055,₹5322
+229,19,greater-noida, Greater Noida West , piyush nair,2,Floor26 out of 27,₹50.5 Lac ,615,₹5308
+230,20,greater-noida, Greater Noida West , A Plus Associates,2,Floor17 out of 19,₹63 Lac ,1155,₹4630
+231,21,greater-noida, , Bricksnwall Innovations Pvt.Ltd.,2,Floor1 out of 4,₹25.5 Lac ,950,₹5020
+232,22,greater-noida, Noida Extention , Pragati ,3,Floor10 out of 19,₹68.9 Lac ,840,₹2429
+233,23,greater-noida, Sector 1 Greater Noida West , Prof Arora,2,Floor1 out of 5,₹23 Lac ,870,₹4700
+234,24,greater-noida, Omicron 3 , Prabhat Sharma,3,Floor20 out of 21,₹55 Lac ,1395,₹2370
+235,25,greater-noida, UPSIDC Site C Block H , Gaurav,2,Floor6 out of 14,₹44 Lac ,1115,₹3943
+236,26,greater-noida, Sector 16 , sanjeev,3,Floor4 out of 22,₹51 Lac ,1285,₹3946
+237,27,greater-noida, Chi 5 , Mohd Sarfaraz,3,Floor7 out of 21,₹65 Lac ,1494,₹4351
+238,28,greater-noida, Yamuna Expressway , Atif,2,Express Park View 2,₹33 Lac ,1115,₹2960
+239,29,greater-noida, Yamuna Expressway , Sandeep Jain,3,Floor25 out of 25,₹50 Lac ,13750,₹3636
+240,30,gurgaon, Jal Vayu Vihar, Mohit,2,Floor22 out of 25,₹80 Lac ,900,₹8889
+241,31,gurgaon, Sohna Sector 32 , Nithin Abraham,3,Floor3 out of 3,₹1.80 Cr ,1789,₹10061
+242,32,gurgaon, Kendriya Vihar, Arun Yadav,3,Floor10 out of 14,₹1.50 Cr ,1500,
+243,33,gurgaon, Sector 23 , Lionel Richie,2,Floor3 out of 10,₹45 Lac ,750,₹5294
+244,34,gurgaon, Sohna Sector 35 , Shubham Solanki,1,SocietyKendriya Vihar Sector 56,₹17 Lac ,310,₹3864
+245,35,gurgaon, Sector 84 , Anshul,3,Floor1 out of 4,₹93 Lac ,1750,₹4439
+246,36,gurgaon, Sector 104 , Ajay Sharma,2,Floor7 out of 10,₹35 Lac ,570,₹5000
+247,37,gurgaon, Sector 78 , Pushpendra Sethi,3,Floor19 out of 20,₹81.1 Lac ,1657,₹4894
+248,38,gurgaon, Sector 112 , Y S Dwivedi,3,Floor9 out of 15,₹4.60 Cr ,3763,₹12224
+249,39,gurgaon, Sector 102 , Rahul Arora,4,Floor3 out of 14,₹2.60 Cr ,1800,₹9630
+250,40,gurgaon, Sector 48 , Devesh,3,Monsoon Breeze Phase 2,₹1.20 Cr ,1300,₹8000
+251,41,gurgaon, Sector 7 , RAHUL,3,Floor10 out of 27,₹54 Lac ,900,₹5143
+252,42,gurgaon, Sector 55 , Kapur,3,Floor8 out of 22,₹1.40 Cr ,1950,₹7179
+253,43,gurgaon, DLF City Phase 1 , sanjay kaushik,4,Floor4 out of 4,₹1.85 Cr ,1556,₹11889
+254,44,gurgaon, Sector 57 , Naresh,3,Floor3 out of 4,₹99 Lac ,1217,₹8135
+255,45,gurgaon, New Colony, Rahul,3,Floor4 out of 9,₹85 Lac ,,₹8213
+256,46,gurgaon, Sohna Sector 33 , Karun,2,Floor5 out of 6,₹42 Lac ,610,₹4421
+257,47,gurgaon, Sector 83 , Gurdeep Singh,3,Floor2 out of 3,₹1 Cr ,1745,₹5731
+258,48,gurgaon, Sector 47 , Pradeep Sharma,3,Floor1 out of 4,₹3.50 Cr ,2470,₹14170
+259,49,gurgaon, Sector 37C, Ravinder Chauhan,2,Floor8 out of 10,₹93 Lac ,10372,₹6503
+260,50,gurgaon, Sector 9 , Axiom Landbase Pvt. Ltd.,4,FloorGround out of 4,₹1.20 Cr ,1450,₹7500
+261,51,gurgaon, DLF City Phase 1 , Jk Batra,2,Floor1 out of 18,₹1.32 Cr ,1250,₹9429
+262,52,gurgaon, Sector 4 , sunil yadav,4,Floor2 out of 14,₹1.60 Cr ,1550,₹7111
+263,53,gurgaon, South City 2, Rishabh Arora,4,Floor4 out of 9,₹2.35 Cr ,1800,₹11190
+264,54,gurgaon, New Palam Vihar, Pankaj Ahlawat,2,Floor2 out of 3,₹28 Lac ,550,₹3733
+265,55,gurgaon, Sector 54 , VIVEK SHARMA,3,City Plot Phase 1,₹10.90 Cr ,3650,₹25952
+266,56,gurgaon, Patel Nagar, Real Estate Gurgaon,3,Floor3 out of 4,₹46 Lac ,960,₹4182
+267,57,gurgaon, Sector 77, Akhilesh Sharma ,4,Floor3 out of 4,₹1.50 Cr ,1500,₹7692
+268,58,gurgaon, Sector 65 , Ankush,3,Floor2 out of 4,₹2.28 Cr ,1500,₹12473
+269,59,gurgaon, Sector 65 , Manjunath S,3,FloorGround out of 32,₹5 Cr ,3069,
+270,60,mangalore, Shakti Nagar , Govinda,2,Floor1 out of 3,₹22 Lac ,670,₹3284
+271,61,mangalore, Urwa , Varun Nayak,2,Floor6 out of 12,₹79 Lac ,1100,₹6371
+272,62,mangalore, Bunts Hostel Road , Jeanson Veigas,3,Floor19 out of 47,₹69.5 Lac ,1700,₹3971
+273,63,mangalore, Urwa , Chethan,2,Floor11 out of 14,₹58 Lac ,1275,₹4549
+274,64,mangalore, Kulshekar , Naveen Kamath,3,Floor2 out of 2,₹54.8 Lac ,1330,₹3487
+275,65,mangalore, Kulai , Devdhar Shetty,2,Floor4 out of 5,₹65 Lac ,906,
+276,66,mangalore, Bajpe , Gopal,4,Floor4 out of 8,₹2 Cr ,3030,₹5882
+277,67,mangalore, Ujire , Stany, ,Floor3 out of 4,₹10.1 Lac ,,
+278,68,mangalore, Bondel , Brahmari Vilas,3,Floor6 out of 14,₹65 Lac ,1390,₹4676
+279,69,mangalore, Kateel , Baptist Dcunha,2,Floor7 out of 25,₹35 Lac ,1260,₹3070
+280,70,mangalore, K, Priya,1,Floor22 out of 23,₹19 Lac ,660,₹2879
+281,71,mangalore, Shakti Nagar , Iqbal ,2,Floor5 out of 5,₹40 Lac ,1166,
+282,72,mangalore, Falnir , Santosh Babu Salian,3,Floor2 out of 4,₹1.80 Cr ,3900,₹4615
+283,73,mangalore, Kulai , Hassan,2,Floor1 out of 4,₹65 Lac ,975,₹6667
+284,74,mangalore, Kadri , Rajesh Antony Fernandes,2,Floor12 out of 14,₹75 Lac ,1390,₹5396
+285,75,mangalore, Padil , jaysen,3,Floor5 out of 6,₹48.5 Lac ,1070,₹4533
+286,76,mangalore, Kulai , Govinda Sharma,3,Floor14 out of 23,₹90 Lac ,1870,₹4813
+287,77,mangalore, Urwa , hashura,2,Floor7 out of 13,₹79 Lac ,1040,₹6371
+288,78,mangalore, Falnir , Lance,2,Floor9 out of 9,₹65 Lac ,1000,₹6500
+289,79,mangalore, Jepp, Arwin,2,Floor7 out of 19,₹50 Lac ,1320,₹3788
+290,80,mangalore, Derebail , sharath kumar,2,Floor4 out of 5,₹60 Lac ,783,₹5911
+291,81,mangalore, Mulky , Sameer,2,Floor3 out of 4,₹35 Lac ,72,₹3507
+292,82,mangalore, , Sabeena Farhath,2,Floor5 out of 5,₹32 Lac ,1000,₹3200
+293,83,mangalore, Pandeshwar , Suman Kumar,2,Floor2 out of 5,₹75 Lac ,1330,₹5639
+294,84,mangalore, Ashok Nagar , pkumar,3,Floor4 out of 5,₹1.01 Cr ,1356,₹5913
+295,85,mangalore, Konchady Cross Road , James D'SA,2,Floor4 out of 4,₹40 Lac ,884,₹4525
+296,86,mangalore, Pumpwell , roshan,3,Floor1 out of 16,₹1.20 Cr ,1613,₹6366
+297,87,mangalore, Mukka , Sunil Veigas,2,Floor1 out of 4,₹45 Lac ,1100,₹3750
+298,88,mangalore, Nandigudda , SNEHA,3,Floor3 out of 5,₹68.5 Lac ,1341,
+299,89,mangalore, Yeyyadi Indl. Estate , D Suryaprakash,2,Floor3 out of 5,₹48 Lac ,1200,₹3491
+300,90,raipur, Daldal Seoni , Bhumika Bansal,2,Floor5 out of 5,₹25 Lac ,970,₹2577
+301,91,raipur, Mowa , carlus,3,Floor4 out of 4,₹77 Lac ,1200,₹4968
+302,92,raipur, Avanti Vihar , Vaibhav Shukla,3,Floor4 out of 4,₹68 Lac ,1985,₹3426
+303,93,raipur, Shankar Nagar , Khushboo Kashyap,2,Floor2 out of 5,₹52 Lac ,840,₹6190
+304,94,raipur, Santoshi Nagar , Deekaha,3,Floor6 out of 6,₹29.1 Lac ,1250,₹2327
+305,95,raipur, Naya Raipur , Divya Singh,2,Floor4 out of 6,₹31.8 Lac ,943,₹3372
+306,96,raipur, Hirapur Road , Arpit Jain,3,Floor5 out of 5,₹32.5 Lac ,799,₹3368
+307,97,raipur, VIP Road , Mahesh,2,Basement out of 4,₹30 Lac ,900,₹3333
+308,98,raipur, Mathpurena , geeta shrivastava,2,Floor5 out of 8,₹42 Lac ,1050,₹4000
+309,99,raipur, Boria Kalan , ajit singh,2,Floor3 out of 10,₹7.5 Lac ,487,₹1540
+310,100,raipur, Amlidhi , Prem Pvt Ltd,2,FloorGround out of 3,₹23 Lac ,700,₹2706
+311,101,raipur, Bhatagaon , vijay,2,Floor1 out of 4,₹31.5 Lac ,815,₹3099
+312,102,raipur, Kabir Nagar , Siddharth Buildcon,1,Floor1 out of 3,₹14 Lac ,505,₹2772
+313,103,raipur, Shankar Nagar , Kusum kumari,2,Floor2 out of 6,₹35 Lac ,866,₹3000
+314,104,raipur, Hirapur Road , Priyesh Gupta,2,Floor3 out of 8,₹25 Lac ,721,₹3467
+315,105,raipur, NH 6 , Devinder Singh,3,Floor6 out of 6,₹33 Lac ,1200,₹2538
+316,106,raipur, Shankar Nagar , womesh womesh,2,Floor10 out of 10,₹30 Lac ,1030,₹2913
+317,107,raipur, Deopuri , sandip Agarwal,3,Floor7 out of 10,₹33.3 Lac ,1500,₹1852
+318,108,raipur, Kota , Chainika,3,Floor3 out of 6,₹1.35 Cr ,1805,₹7479
+319,109,raipur, Amlidhi , Karnjeet Biswas,2,Floor3 out of 5,₹49 Lac ,1230,₹3984
+320,110,raipur, Hirapur Road , TEJESHWARI SAHU,3,Floor7 out of 11,₹30 Lac ,965,₹3109
+321,111,raipur, Santoshi Nagar , Mitchell,3,Floor4 out of 7,₹29.1 Lac ,1250,₹2327
+322,112,raipur, Boria Kalan , Angad Lalwani,3,Floor4 out of 8,₹33 Lac ,1337,₹3143
+323,113,raipur, Shankar Nagar , achyutananda,3,Floor5 out of 11,₹43.4 Lac ,960,₹3600
+324,114,raipur, Amleshwar , Manoj mati,3,FloorGround out of 4,₹25 Lac ,1200,₹2778
+325,115,raipur, Amlidhi , vidyadhar behra,2,Floor1 out of 1,₹36 Lac ,1000,₹3600
+326,116,raipur, Kachna Road , Sumit Wadhwani,3,Floor2 out of 10,₹42.9 Lac ,1500,₹2860
+327,117,raipur, Mowa , Saurabh upadhyay,2,Floor2 out of 4,₹20 Lac ,860,₹2326
+328,118,raipur, Amanaka , Shubham Soni,1,Floor3 out of 6,₹12.5 Lac ,550,₹2273
+329,119,raipur, Daldal Seoni , Vikas Gulati,2,Floor5 out of 10,₹25 Lac ,906,₹2759
+330,120,agra, Sikandra , vishal sharma,2,Floor4 out of 6,₹25.5 Lac ,900,₹2833
+331,121,agra, Vibhav Nagar , Arnav Singh,3,Floor2 out of 3,₹43.5 Lac ,1540,₹2753
+332,122,agra, Vijay Nagar Colony , Vinod Kumar,2,Floor1 out of 6,₹68 Lac ,1250,₹5440
+333,123,agra, Civil L, Deepika Chahar,2,Floor3 out of 8,₹35 Lac ,850,₹3097
+334,124,agra, Dayal Bagh , Shikha,5,Floor3 out of 4,₹1.35 Cr ,,₹4500000
+335,125,agra, Civil L, Shubham Kumar,2,Floor2 out of 6,₹65 Lac ,1050,₹6190
+336,126,agra, Shastri Puram , hemant sharma,2,Floor2 out of 5,₹44.4 Lac ,848,₹3589
+337,127,agra, Agra Shamshabad Raja Kherah Marg , Prem lal Taneja,3,Floor1 out of 2,₹33.5 Lac ,1350,₹2481
+338,128,agra, Dayal Bagh , Yatendra kumar mehrotra,3,Floor2 out of 5,₹42 Lac ,1050,₹4000
+339,129,agra, Dayal Bagh , Umang Mathur,3,Floor8 out of 9,₹48 Lac ,1400,₹3000
+340,130,agra, Dayal Bagh , Akshit Rajoriya,3,Floor1 out of 10,₹47 Lac ,,₹4695
+341,131,agra, Fatehabad Road , Sanjeev Singh,2,Floor2 out of 2,₹40.5 Lac ,1192,₹3400
+342,132,agra, Agra Shamshabad Raja Kherah Marg , nitin singh,2,Floor1 out of 2,₹28 Lac ,1115,₹2511
+343,133,agra, Sikandra , ajay kumar,2,Floor1 out of 3,₹35 Lac ,1000,₹3167
+344,134,agra, Sikandra , Divya pandey,2,Floor9 out of 11,₹17.5 Lac ,660,₹2500
+345,135,agra, Dayal Bagh , GALAXY PRINT PACK,3,FloorGround out of 3,₹60 Lac ,1675,₹3582
+346,136,agra, Sikandra , SHWETANG SHARMA,5,Floor3 out of 5,₹81.9 Lac ,2410,₹3997
+347,137,agra, Fatehabad Road , PRAVEEN KUMAR,3,Floor7 out of 10,₹55 Lac ,,₹2555
+348,138,agra, Shastri Puram , Sapna,2,Floor4 out of 14,₹40 Lac ,862,₹3200
+349,139,agra, Shastri Puram , Ganpati World,2,Floor5 out of 9,₹42 Lac ,1250,₹3359
+350,140,agra, Fatehabad Road , Shrey Shankar,3,Floor3 out of 13,₹44 Lac ,1400,₹2627
+351,141,agra, Sikandra , Rakesh Agarwal ,3,Floor1 out of 11,₹65 Lac ,1800,₹3611
+352,142,agra, Shahganj , Sanchit gupta,2,Floor2 out of 11,₹59.9 Lac ,1750,₹3328
+353,143,agra, Fatehabad Road , PRASHANT,3,Floor7 out of 15,₹51 Lac ,1675,₹3045
+354,144,agra, Gwalior Road , adil hussain,2,Floor1 out of 10,₹24 Lac ,960,₹2264
+355,145,agra, Agra Shamshabad Raja Kherah Marg , Mohini Sharma,2,Floor3 out of 4,₹44 Lac ,940,₹3745
+356,146,agra, Sector 16B Awas Vikas Colony , vivek jain,2,Floor11 out of 14,₹65 Lac ,1425,₹4561
+357,147,agra, Fatehabad Road , VIMAL TIWARI,3,Floor2 out of 2,₹24 Lac ,926,₹2592
+358,148,agra, Shastri Puram , Dr Archika Gupta Dr Archika,2,Floor12 out of 12,₹41.3 Lac ,861,₹3944
+359,149,agra, Rakabganj , Amit Kumar Saini,3,Floor3 out of 9,₹90 Lac ,1500,₹6000
+360,150,bhiwadi, Alwar Bypass Road , Radha Kanha,2,Floor9 out of 9,₹38 Lac ,1165,₹4077
+361,151,bhiwadi, , M K Realtech,2,Floor2 out of 11,₹12 Lac ,555,₹1846
+362,152,bhiwadi, Alwar Bypass Road , R K Real Estate,2,Floor2 out of 6,₹23 Lac ,980,₹1941
+363,153,bhiwadi, Alwar Bypass Road , Vikram,1,Floor6 out of 13,₹13 Lac ,466,₹2167
+364,154,bhiwadi, Alwar Bypass Road , Amita Singh,2,Floor5 out of 6,₹36 Lac ,1234,₹2917
+365,155,bhiwadi, Alwar Bypass Road , Raj Singh,2,Floor7 out of 10,₹18 Lac ,750,₹2118
+366,156,bhiwadi, Alwar Bypass Road , Dharm Chauhan,2,Floor3 out of 13,₹23 Lac ,780,₹2244
+367,157,bhiwadi, Alwar Bypass Road , Sunil Kumar,2,Floor3 out of 13,₹13.5 Lac ,650,₹2077
+368,158,bhiwadi, Alwar Bypass Road , vineet,1,Floor1 out of 9,₹11 Lac ,630,₹1746
+369,159,bhiwadi, Alwar Bypass Road , Sandeep singh,1,Floor4 out of 14,₹16.8 Lac ,600,₹2585
+370,160,bhiwadi, Alwar Bypass Road , Ashok Sood,3,Floor13 out of 15,₹37 Lac ,1430,₹2587
+371,161,bhiwadi, Bhiwadi Mod , munish,1,Basement out of 15,₹28 Lac ,660,₹4242
+372,162,bhiwadi, Tapukara , Brahmprakash,2,Floor9 out of 16,₹15 Lac ,815,₹1840
+373,163,bhiwadi, Alwar Bhiwadi Road , Satish,2,Floor2 out of 14,₹18.8 Lac ,1250,₹1500
+374,164,bhiwadi, Vasundhara Nagar , Sachinrajput,2,Floor2 out of 4,₹28 Lac ,1170,₹2393
+375,165,bhiwadi, Alwar Bypass Road , Sunil Kumar,2,Floor8 out of 13,₹17.9 Lac ,1111,₹1611
+376,166,bhiwadi, Alwar Bypass Road , Shailender,2,Floor15 out of 15,₹19 Lac ,1000,₹1900
+377,167,bhiwadi, Alwar Bypass Road , Sumit Kumar,2,Floor5 out of 7,₹27 Lac ,1150,₹2348
+378,168,bhiwadi, Alwar Bypass Road , Rahul Rijhwani,2,Floor4 out of 9,₹32.5 Lac ,829,₹2790
+379,169,bhiwadi, Alwar Bypass Road , darshan kumar,2,Floor9 out of 14,₹14.5 Lac ,700,₹1503
+380,170,bhiwadi, Alwar Bypass Road , Chandresh,2,Floor13 out of 14,₹21 Lac ,950,₹2211
+381,171,bhiwadi, Alwar Bypass Road , Rahul Chauhan,2,Floor11 out of 16,₹30 Lac ,1250,₹2400
+382,172,bhiwadi, Alwar Bypass Road , Narendra Kumar Agarwal,2,Floor11 out of 15,₹22 Lac ,1150,₹1913
+383,173,bhiwadi, Rampura , Vivek Anand Semwal,2,SocietyAvalon Residency Phase 2,₹20 Lac ,599,₹2367
+384,174,bhiwadi, Alwar Bypass Road , Vibhu,2,Floor12 out of 15,₹20 Lac ,750,₹2667
+385,175,bhiwadi, Alwar Bypass Road , SANCHITA,3,Floor9 out of 15,₹59 Lac ,1590,₹3711
+386,176,bhiwadi, Vasundhara Nagar , kuldeep tomer,3,Floor9 out of 12,₹50 Lac ,1522,₹3285
+387,177,bhiwadi, Tapukara , Parveen khanna,2,Floor7 out of 14,₹10 Lac ,500,₹1818
+388,178,bhiwadi, Alwar Bypass Road , Pardeep N/A ,1,Floor14 out of 14,₹18 Lac ,630,₹2857
+389,179,bhiwadi, Alwar Bypass Road , Vijay,2,Floor4 out of 9,₹30 Lac ,790,₹3797
+390,180,mysore, Gokulam , Ravi Nambiar,3,Floor2 out of 5,₹80 Lac ,1650,₹3509
+391,181,mysore, Bogadi , Pick Your Prop Estates LLP,4,Floor9 out of 14,₹60 Lac ,1487,₹4110
+392,182,mysore, JP Nagar , Veena,2,Floor2 out of 13,₹45 Lac ,1095,₹7556
+393,183,mysore, Yadavgiri , Amar Kumar Prasad,2,SocietyKrish City Phase 2,₹68 Lac ,9,₹6611
+394,184,mysore, Yadavgiri , Jagadeesha,2,Floor2 out of 4,₹95 Lac ,1280,
+395,185,mysore, Hebbal , Meghana,1,Floor6 out of 8,₹58 Lac ,400,₹4296
+396,186,mysore, Vijayanagar 4th Stage , Shashi,2,Floor3 out of 8,₹82 Lac ,1400,₹5857
+397,187,mysore, Bogadi , Satish Krishna,3,Floor2 out of 2,₹58 Lac ,1174,₹4940
+398,188,mysore, Sharadadevi Nagar , ARUN,4,Floor1 out of 4,₹50 Lac ,650,₹4762
+399,189,mysore, Alanahalli , subbareddy subbareddy,2,Floor4 out of 4,₹85 Lac ,1050,₹6071
+400,190,mysore, Vijaynagar 3rd Stage , Mallesh,2,Floor4 out of 5,₹58 Lac ,890,₹5115
+401,191,mysore, Belagola , Karthik,4,Floor8 out of 8,₹1.01 Cr ,2000,₹4208
+402,192,mysore, , Nanda,2,Floor2 out of 3,₹60 Lac ,911,₹6586
+403,193,mysore, Visveshwara Nagar , Mohammed Mansoor,2,Floor2 out of 4,₹56 Lac ,1280,₹4375
+404,194,mysore, , Shriya Mankani,2,Floor3 out of 4,₹48 Lac ,800,₹3863
+405,195,mysore, Siddhartha Layout , Nataraj D M,2,Basement out of 1,₹65.7 Lac ,1095,₹4000
+406,196,mysore, Vidyarayanapuram , Narasimha murthy,3,Floor1 out of 4,₹60 Lac ,1553,
+407,197,mysore, Srirangapatnam , Vijay Menon,3,Floor3 out of 4,₹75 Lac ,1875,
+408,198,mysore, JP Nagar , Prakash,3,Floor1 out of 5,₹75 Lac ,1681,₹4462
+409,199,mysore, Bogadi , G S ANANTHA,3,Floor2 out of 4,₹70 Lac ,1400,₹5000
+410,200,mysore, Chamarajapura , Gowrish Bhaskar,2,Floor3 out of 6,₹52 Lac ,1019,₹5103
+411,201,mysore, Metagalli , Ramachandra Murthy,3,FloorGround out of 10,₹1.45 Cr ,2200,₹6591
+412,202,mysore, Jaya Laxmi Puram , Thulaseedharan pillai A,3,Floor3 out of 4,₹85 Lac ,1380,₹5743
+413,203,mysore, Hebbal 2nd Stage , Rathan,2,Floor7 out of 7,₹1.63 Cr ,1100,₹14818
+414,204,mysore, Lakshmipuram , sheelavathi,3,Floor4 out of 7,₹80 Lac ,1650,₹4848
+415,205,mysore, , Nayana A.S,2,FloorGround out of 3,₹40 Lac ,1070,₹6389
+416,206,mysore, Kuvempunagar , Srikanth,2,Floor1 out of 3,₹69 Lac ,1080,₹5000
+417,207,mysore, , MANJUNATHA,2,FloorGround out of 2,₹60 Lac ,1200,
+418,208,mysore, V V Mohalla , Chakko,2,FloorGround out of 5,₹60 Lac ,900,₹6667
+419,209,mysore, Sriramapura ,,2,Floor1 out of 3,₹72 Lac ,1115,₹6457
