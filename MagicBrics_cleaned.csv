@@ -1,0 +1,421 @@
+,City,Area,Owner,BHK,Floor,Carpet_Area,per_sqt,price_in_crores
+0,bangalore, Kattigenahalli, Omkar Pandey,3,FloorGround out of 4,1000,4950.0,0.6
+1,bangalore, Ayodaya Nagar, gokul,2,FloorGround out of 4,1150,6957.0,0.8
+2,bangalore, Electronic City , Thayumanavan,2,Floor4 out of 4,1060,4528.0,0.48
+3,bangalore, Tumkur Road , Prasanna,3,Floor14 out of 15,1790,7542.0,1.35
+4,bangalore, Kudlu Gate , Akash Akash,2,Floor2 out of 4,803,5706.0,0.61
+5,bangalore, Hal Stage 2, av nath,3,Floor1 out of 4,1640,7303.0,1.3
+6,bangalore, Murugeshpalya, Sangeeta Pillai,2,Floor3 out of 5,1250,5000.0,0.5
+7,bangalore, Begur Road , ganga k,3,Basement out of 17,1588,11335.0,1.8
+8,bangalore, Judicial Layout, Anjan K,3,Floor3 out of 14,1000,8889.0,0.01
+9,bangalore, Bellandur, Omesh Saraf,2,Floor2 out of 10,1465,6997.0,1.02
+10,bangalore, Kasturi Nagar , Mohd Hussain ,3,FloorGround out of 7,1500,8146.0,1.45
+11,bangalore, Koramangala Block 1 , Rahul Jain,3,Floor16 out of 16,1418,20632.0,3.85
+12,bangalore, Sarjapur Road , Gaurav Kumar GAURAV,3,FloorGround out of 5,1350,5655.0,0.7
+13,bangalore, Devanahalli , Ancy,2,Floor1 out of 7,1000,6071.0,0.85
+14,bangalore, Hanumantha Nagar, Anoop,2,Floor2 out of 4,1250,9800.0,0.98
+15,bangalore, , geetha,2,Floor2 out of 5,857,6367.0,0.6
+16,bangalore, Doddakannelli , Omkar Omkar,2,Floor3 out of 6,753,5158.0,0.78
+17,bangalore, Electronic City , ruchika,2,Floor1 out of 7,1186,6374.0,0.57
+18,bangalore, Sarjapur Road , jeswanth,3,Floor1 out of 4,1250,4553.0,1.08
+19,bangalore, Jigani , vikas saxena,3,Floor6 out of 12,770,4545.0,0.57
+20,bangalore, , Ranju,2,Floor9 out of 9,2150,7500.0,0.35
+21,bangalore, , tezal,4,Floor1 out of 4,1900,12500.0,1.8
+22,bangalore, Jaya Nagar Block 3 , shravan,3,Floor2 out of 4,1460,7705.0,2.75
+23,bangalore, whitefield , Bhav,3,Floor5 out of 5,1885,5305.0,1.12
+24,bangalore, whitefield , Nagananda,3,Floor2 out of 4,1950,7436.0,0.01
+25,bangalore, Harlur , MD Fuzail,3,Floor1 out of 3,1250,5333.0,1.45
+26,bangalore, Sarjapur Road , ashwanth,3,Floor13 out of 27,1820,7418.0,0.8
+27,bangalore, Hoodi, Partha Sarma,3,Floor5 out of 13,2060,10194.0,1.35
+28,bangalore, Haralur Ma, Shekar,3,Floor3 out of 3,740,4650.0,2.1
+29,bangalore, Yelahanka , Sashank Constructions,2,FloorGround out of 4,331,26471.0,5.12
+30,mumbai, Daulat Nagar , K SH,1,Floor8 out of 9,310,23276.0,0.73
+31,mumbai, Samel Pada , NIYATI,1,Floor1 out of 5,610,16667.0,0.22
+32,mumbai, Borivali West , Sachin Kunder,2,Floor5 out of 15,1160,4335.0,2.25
+33,mumbai, Goregaon West , Motashaw Motashaw,3,Floor4 out of 7,665,23636.0,2.7
+34,mumbai, Vasai East , MONCY BHASKAR,1,FloorGround out of 76,1052,37500.0,0.41
+35,mumbai, Worli , Anam khan,3,Floor4 out of 4,685,27136.0,5.99
+36,mumbai, Kurla East , Milind Desai,2,FloorGround out of 3,400,18545.0,1.2
+37,mumbai, Andheri East , Jas Baljeet J,1,Floor1 out of 6,332,60000.0,1.3
+38,mumbai, Kandivali East , Gangaram Dhuri,1,Floor5 out of 20,776,5047.0,0.65
+39,mumbai, Mahim West , Satyajit Satyajit,2,Floor6 out of 12,800,4335.0,3.75
+40,mumbai, Borivali West , vasant ahir,2,Floor7 out of 7,450,11529.0,2.7
+41,mumbai, Chembur West , Rajendra,1,FloorGround out of 4,430,38459.0,1.02
+42,mumbai, , Aditi Shah,1,Floor1 out of 3,675,7242.0,0.95
+43,mumbai, , Haroon mansuri,2,Floor21 out of 21,1870,4335.0,0.6
+44,mumbai, Dadar West , kishor kishor,4,Floor3 out of 3,820,10000.0,0.15
+45,mumbai, Boisar West , Medha Naik,2,Floor7 out of 21,850,14583.0,0.32
+46,mumbai, Mira Road , Anita,2,Floor5 out of 7,1172,5376.0,0.98
+47,mumbai, K, jagdish Dassani,3,Floor5 out of 7,404,12042.0,4.89
+48,mumbai, Virar West , Raghav Sharma,1,Floor4 out of 15,575,13669.0,4.49
+49,mumbai, Vasai West , nandan lanjekar,2,Floor9 out of 15,507,19375.0,0.7
+50,mumbai, Bhandup West , amit chalke,1,Floor17 out of 18,558,21333.0,1.05
+51,mumbai, Kalyan , Arun Iyer,1,Floor5 out of 12,680,33333.0,0.3
+52,mumbai, Goregaon East , Ritu,2,Floor7 out of 7,1130,22951.0,1.25
+53,mumbai, Marol Maroshi Road , Khuzema Tajir,3,Floor15 out of 23,562,10695.0,1.9
+54,mumbai, Malad West , Dipti solanki,2,Floor3 out of 4,535,25316.0,1.55
+55,mumbai, Vikhroli East , sujatha,2,Floor2 out of 13,590,5268.0,1.28
+56,mumbai, Juhu , Aysha Khan,1,Floor2 out of 4,792,8658.0,0.02
+57,mumbai, Andheri East , DHRUV SHARMA,2,Floor1 out of 11,935,5000.0,2.52
+58,mumbai, Jogeshwari West , Mumtaz Nazim,2,Floor1 out of 4,632,4444.0,0.01
+59,mumbai, Mulund West , Savith Raghavan Savith Raghavan,2,Floor1 out of 2,1044,8947.0,1.6
+60,chennai, Mannivakkam Chennai, Yogesh Baskaran,2,FloorGround out of 2,800,4335.0,0.55
+61,chennai, New Perungalathur Chennai, K VINODH KUMAR,2,Floor2 out of 2,1200,4895.0,0.8
+62,chennai, Kovilambakkam Chennai, GURURAJAN BABU,3,Floor1 out of 2,1350,6111.0,0.6
+63,chennai, Perumbakkam Chennai, Vijay Jaya,2,Floor1 out of 2,950,5268.0,0.6
+64,chennai, Mogappair Chennai, siva,2,Floor1 out of 2,1001,5712.0,0.85
+65,chennai, Tambaram West Tambaram Chennai, Prasanna,2,Floor4 out of 4,900,8367.0,0.49
+66,chennai, Manapakkam Chennai, M DINESH KANNA,3,Floor3 out of 5,800,8406.0,0.55
+67,chennai, Mogappair Chennai, Elango Rajendran,2,Floor16 out of 16,852,4335.0,0.53
+68,chennai, Perumbakkam Chennai, Dev,3,Floor3 out of 4,1494,5086.0,0.69
+69,chennai, Iyyappanthangal Chennai, vinothan,2,Floor1 out of 2,700,9140.0,1.25
+70,chennai, Manapakkam Chennai, Owner,2,Floor4 out of 4,634,6112.0,0.87
+71,chennai, Madipakkam Chennai, M G S Jayamalathi,1,Floor3 out of 4,1395,7931.0,0.32
+72,chennai, Selaiyur Chennai, Mahalingam,2,Floor1 out of 2,930,4335.0,0.71
+73,chennai, Velachery Chennai, Kads,2,Floor2 out of 4,464,11616.0,0.85
+74,chennai, Sithalapakkam Chennai, YOGEESWARAN,2,Floor2 out of 2,580,4060.0,0.47
+75,chennai, Adyar Chennai, Kuppuswamy Bj,1,Floor2 out of 3,509,3999.0,0.46
+76,chennai, Shankar Nagar Pammal Chennai, Jayalakshmi,2,Floor2 out of 3,990,7584.0,0.43
+77,chennai, Chennai, Vidhya vidhya,2,Floor1 out of 4,445,5294.0,1.15
+78,chennai, Porur Chennai, Sujith,1,Floor1 out of 3,469,6481.0,0.27
+79,chennai, Chennai, sakthi,2,Floor1 out of 3,778,6198.0,2.97
+80,chennai, Villivakkam Chennai, Santhosh,2,Floor1 out of 1,850,4343.0,0.59
+81,chennai, Kundrathur Chennai, Santhosh Developers,2,FloorGround out of 2,540,6571.0,0.45
+82,chennai, AGS Colony Velachery Chennai, R Premalatha,1,Floor1 out of 2,1194,11818.0,0.35
+83,chennai, Pallikaranai Chennai, Jebaselvan Navaraj,3,Floor1 out of 1,898,5249.0,0.74
+84,chennai, Pozhichalur Chennai, Ramkumar Gopalsamy,2,Floor1 out of 2,700,6763.0,0.39
+85,chennai, Jothi Nagar Chitlapakkam Chennai, ram,2,Floor1 out of 1,600,8000.0,0.46
+86,chennai, VGP Layout Palavakkam Chennai, Faizal,2,Floor1 out of 4,762,3242.0,1.3
+87,chennai, Perundevi Ammal Nagar Chennai, Vimal Kumar S,2,Floor1 out of 4,1035,5143.0,0.4
+88,chennai, Gu, Venugopal,2,Floor2 out of 5,800,4615.0,0.7
+89,chennai, Chennai, PURUSHOTHAMAN,2,Floor10 out of 16,1300,4000.0,7.49
+90,visakhapatnam, , Hari,3,Floor15 out of 16,823,4667.0,4.75
+91,visakhapatnam, , Sl Prasanna,2,FloorGround out of 6,1700,4130.0,0.72
+92,visakhapatnam, Madhurwada , Sonia,3,Floor2 out of 3,1575,4087.0,0.97
+93,visakhapatnam, Pendurthi , Ramana Murthy,3,Floor3 out of 5,700,7634.0,0.63
+94,visakhapatnam, Pithapuram Colony , s bhargavi,2,Floor4 out of 4,1540,3619.0,0.35
+95,visakhapatnam, Madhurwada , Lakshman,3,Floor1 out of 5,1150,3046.0,6.36
+96,visakhapatnam, Pendurthi , Devi,2,Floor2 out of 4,1310,7500.0,0.47
+97,visakhapatnam, Visalakshi Nagar , jitendra sai,3,Floor2 out of 5,1000,5000.0,0.01
+98,visakhapatnam, Balaji Nagar , Ram,2,Floor2 out of 5,915,3000.0,0.38
+99,visakhapatnam, Sujatha nagar , vakada ramana,2,Basement out of 3,1300,3667.0,0.3
+100,visakhapatnam, , Ravindra Pamidi,3,Floor2 out of 5,600,3750.0,9.75
+101,visakhapatnam, Mural, Praveen,1,Floor3 out of 5,1000,4056.0,0.3
+102,visakhapatnam, Poth, Sai Stylish,2,Floor1 out of 5,1300,3309.0,0.3
+103,visakhapatnam, Kurmannapalem , MADHU,3,Floor2 out of 5,1516,5235.0,0.55
+104,visakhapatnam, Kurmannapalem , Uma Chavali,3,Floor1 out of 5,1800,4118.0,0.6
+105,visakhapatnam, Pendurthi , TEJARAM THRI,3,Floor5 out of 5,1100,3250.0,0.73
+106,visakhapatnam, Kurmannapalem , Jagan,3,Floor1 out of 5,1620,6054.0,0.45
+107,visakhapatnam, , Rakesh Power,3,Floor2 out of 4,1600,5173.0,0.89
+108,visakhapatnam, , Maheshwari,3,Floor2 out of 10,970,4215.0,0.7
+109,visakhapatnam, Kancharapalem , RAMACHANDRA RAO,2,Floor4 out of 5,1133,4756.0,0.49
+110,visakhapatnam, Kurmannapalem , Jaswanth,2,Floor2 out of 3,925,3700.0,4.36
+111,visakhapatnam, Railway New Colony , Srikanth,2,Floor1 out of 5,1875,2600.0,0.56
+112,visakhapatnam, Gajuwaka , Akshay Kumar,3,Floor4 out of 5,1050,4667.0,0.97
+113,visakhapatnam, Aganampudi , swamy m,2,Floor2 out of 5,1640,4222.0,0.47
+114,visakhapatnam, Madhurwada , lalitha dhulipala,3,Floor1 out of 5,840,7091.0,0.78
+115,visakhapatnam, Tagarapuvalsa , Vision Properties,3,Floor3 out of 5,800,4335.0,3.89
+116,visakhapatnam, Parawada , Honey Group,2,Floor5 out of 5,900,4335.0,0.26
+117,visakhapatnam, PM Palem , New Living Properties,2,Floor3 out of 5,650,4335.0,0.42
+118,visakhapatnam, Madhurwada , podilapu simhachalam,2,4335.0,800,4335.0,0.38
+119,visakhapatnam, MVP Colony , Dinakar,2,4335.0,4335,4335.0,0.78
+120,ranchi, H, Waseem Ahmad,3,Floor3 out of 4,1110,4655.0,0.62
+121,ranchi, , Anuj Krchandra,3,Floor5 out of 6,1500,4200.0,7.64
+122,ranchi, S, Rabindra Bakshi,3,Floor4 out of 4,1150,5325.0,0.77
+123,ranchi, Ratu Road , Abhishek Gupta,1,Floor2 out of 4,573,5497.0,3.15
+124,ranchi, Harihar S, Shree Ram Developers,3,Floor8 out of 12,1560,4400.0,6.86
+125,ranchi, Bariatu Road , vivek chandra,3,Floor2 out of 4,2010,3731.0,0.75
+126,ranchi, Morabadi , sushant Bhattacharjee,2,Floor1 out of 4,930,3774.0,0.4
+127,ranchi, Bahu Bazar , Ritesh Nagpal,3,Floor2 out of 7,1280,4531.0,0.58
+128,ranchi, , Nitin Kumar,3,Floor4 out of 4,1250,4317.0,0.6
+129,ranchi, Vikas Nagar , PARTHO BOSE,3,Floor1 out of 1,1500,3733.0,0.56
+130,ranchi, Bariatu , Pradeep,3,Floor3 out of 4,1385,3682.0,0.51
+131,ranchi, Hesag , rajesh singh,3,Floor4 out of 6,1212,4335.0,0.77
+132,ranchi, , ashish singh,2,Floor1 out of 4,1000,2897.0,0.31
+133,ranchi, Barga, sanjeev,2,Floor3 out of 3,800,3986.0,0.33
+134,ranchi, Sector 2 Masibari , Kshav,3,Floor9 out of 10,1925,5476.0,1.15
+135,ranchi, Upper Chutia , Abhishek,3,Floor4 out of 4,1306,5207.0,0.68
+136,ranchi, Hazaribag Road , Neeraj,3,Floor4 out of 5,1540,5325.0,0.82
+137,ranchi, Namkum , Manit Kumar,2,Floor3 out of 4,1180,2712.0,0.32
+138,ranchi, Lalpur , Mukesh Mukesh,2,FloorGround out of 6,971,4629.0,0.58
+139,ranchi, Hesag , Samita Chatterjee,2,Floor3 out of 4,950,4110.0,0.45
+140,ranchi, Kokar , shakuntala verma,2,Floor3 out of 3,1114,4039.0,0.45
+141,ranchi, BIT Mesra , vikash singh,3,Floor1 out of 11,1053,4274.0,0.45
+142,ranchi, , Avishek Modi Modi,4,Floor3 out of 4,2250,5556.0,1.25
+143,ranchi, Harihar S, Amar nath Pandey,2,Floor3 out of 3,950,3448.0,0.4
+144,ranchi, H, MANISH KUMAR,3,Floor2 out of 3,1150,3840.0,0.48
+145,ranchi, , taha,5,FloorGround out of 8,1650,4335.0,1.05
+146,ranchi, Namkum , Rabish Kumar,3,Floor1 out of 4,1338,4484.0,0.6
+147,ranchi, , Pintu Singh,3,Floor4 out of 4,1760,5170.0,0.91
+148,ranchi, Bariatu Road , Ravi Prasad,2,Floor1 out of 4,968,4800.0,0.48
+149,ranchi, Hawai Nagar , Rajiv Ranjan,3,Floor4 out of 8,1500,8333.0,1.25
+150,haridwar, Sidcul , Kiran Kumar Patel,2,FloorGround out of 4,1490,2522.0,0.41
+151,haridwar, Roshanabad , SHREYA SAGAR,3,FloorGround out of 7,750,4529.0,0.77
+152,haridwar, Sidcul , Krrish,2,Floor6 out of 8,1100,2901.0,2.35
+153,haridwar, Devpura , Rajendra Wadhwa,3,Floor1 out of 5,650,5273.0,0.58
+154,haridwar, Laksar Road , Shakti Verma,1,Floor1 out of 4,3000,2192.0,1.43
+155,haridwar, Arya Nagar , Mridul Puri,2,FloorGround out of 2,1210,5429.0,1.9
+156,haridwar, Jwalapur , Manish,3,Floor2 out of 7,719,3140.0,0.38
+157,haridwar, Roshanabad , Ajay,2,Floor3 out of 7,1450,2960.0,0.32
+158,haridwar, Patanjali , tarun agarwal,2,Floor6 out of 6,1484,3483.0,5.05
+159,haridwar, Rajaji National Park , Arvind Bhardwaj,3,Floor1 out of 1,1075,3167.0,0.47
+160,haridwar, Roshanabad , Jasjit Pannu,2,Floor4 out of 6,1388,2605.0,0.28
+161,haridwar, Jwalapur , Abhishek Chauhan,3,Floor2 out of 5,1025,3963.0,0.55
+162,haridwar, Jwalapur , sandeep,2,FloorGround out of 4,890,3636.0,0.4
+163,haridwar, Jwalapur , &quot;Magicbricks User&quot;,2,Floor3 out of 7,1050,3500.0,0.35
+164,haridwar, , Dinesh Kukreti,3,Floor5 out of 7,500,3967.0,0.48
+165,haridwar, Roorkee , Shalinirahal Banga,2,FloorGround out of 1,530,4531.0,0.58
+166,haridwar, Patanjali , Alok Singh,1,FloorGround out of 3,650,3113.0,1.65
+167,haridwar, , saba b Khan,1,FloorGround out of 4,700,3846.0,0.25
+168,haridwar, Shivalik Nagar , Rahul kumar,1,Floor3 out of 4,650,2857.0,0.2
+169,haridwar, Shantikunj , SANDEEP KUMAR,1,Floor1 out of 4,1600,2133.0,0.16
+170,haridwar, Haripur Kalan , Sandeep Chaturvedi,4,Floor2 out of 4,800,4295.0,0.67
+171,haridwar, , AYUSH SAXENA,2,Floor3 out of 3,867,3125.0,0.25
+172,haridwar, Kankhal , puneet,1,Floor4 out of 4,1450,3230.0,0.28
+173,haridwar, Jwalapur , Abhishek chaudhary,2,Floor3 out of 3,900,4335.0,0.37
+174,haridwar, Patanjali , Rishabh Kapoor,2,Floor5 out of 12,1800,3687.0,0.4
+175,haridwar, NH-58 , Surendra Satija,3,Floor4 out of 5,604,3667.0,0.66
+176,haridwar, Jwalapur , Harendra Kumar,1,Floor2 out of 2,915,2318.0,0.14
+177,haridwar, Sidcul , chandra,2,Floor3 out of 7,1700,3716.0,0.34
+178,haridwar, NH-58 , Rohit,3,Floor2 out of 7,750,3824.0,0.65
+179,haridwar, Sidcul , Dharmveer,1,Floor4 out of 6,2032,2933.0,0.22
+180,vadodara, Vasna Bhayli Ma, Samy,3,Floor5 out of 5,1500,2953.0,0.6
+181,vadodara, Race Course circle , Sudhanshu Kavthekar,3,Floor3 out of 4,900,5333.0,0.8
+182,vadodara, Ajwa Road , Jaimin Parmar ,2,Floor3 out of 4,780,2444.0,0.22
+183,vadodara, , paresh,2,Floor1 out of 3,1208,3875.0,0.31
+184,vadodara, Makar Pura , Mayur Patel,2,Floor5 out of 5,700,2941.0,0.25
+185,vadodara, Chhani , Parimal Patel,1,Floor2 out of 4,755,3286.0,0.23
+186,vadodara, Suryanagar , Rakesh,1,Floor6 out of 8,1515,2053.0,1.55
+187,vadodara, Gotri Road Gotri , Bhavik Bhavik Mehta,2,Floor3 out of 4,1900,2970.0,0.45
+188,vadodara, Vasant Vihar , Jyotsna Khoda,3,Floor4 out of 5,1465,4158.0,0.79
+189,vadodara, Sevasi , raghuvirsinh Vaghela,4,Floor1 out of 5,1080,2093.0,0.45
+190,vadodara, Chhani , Pratik gosaliya,2,Floor3 out of 4,450,2542.0,0.3
+191,vadodara, Nani Bapod , Umakant parmar,1,Floor1 out of 3,1010,4335.0,0.75
+192,vadodara, Race Course circle , Akshat Dani,2,Floor3 out of 5,850,4335.0,0.45
+193,vadodara, Kalali , Nimisha,2,Floor5 out of 12,1016,3182.0,0.35
+194,vadodara, Sama Savli Road , Hitansh Agrawal,3,Floor4 out of 9,1025,3683.0,0.65
+195,vadodara, Gorwa , anil,3,Floor2 out of 5,800,3298.0,0.47
+196,vadodara, Bill , mitul patel,2,Floor2 out of 8,980,1696.0,1.95
+197,vadodara, Vasna Bhayli Ma, anil makvana,2,Floor1 out of 3,800,2551.0,0.25
+198,vadodara, Subhanpura , Manubhai Shah,2,Floor4 out of 5,640,2818.0,0.31
+199,vadodara, Bhayli , Shashank,2,Floor4 out of 4,1150,4335.0,0.35
+200,vadodara, Danteshwar , Pushpita Roy Choudhury,2,Floor4 out of 9,2358,2174.0,0.25
+201,vadodara, Vasna Bhayli Ma, namita Namita,3,Floor5 out of 5,900,3817.0,0.9
+202,vadodara, Gotri Sevasi Road , Deepak Singh,3,Floor9 out of 9,2350,5556.0,0.5
+203,vadodara, Harni Road , Manish Nagarajan,3,Floor3 out of 4,750,3216.0,0.82
+204,vadodara, Sayajipura , Ankur Javia,2,Floor5 out of 5,1580,4335.0,0.19
+205,vadodara, Bill , Jigar,4,Floor2 out of 4,200,2521.0,0.6
+206,vadodara, , Maheshbhai Dhokia,1,Floor1 out of 5,600,4000.0,0.08
+207,vadodara, Vasna Bhayli Ma, Aniruddha,2,Floor3 out of 5,1650,3000.0,0.27
+208,vadodara, , Bindi shah,3,Floor2 out of 2,2600,2545.0,0.42
+209,vadodara, , Jiten chokshi,4,4335.0,4335,4615.0,1.2
+210,greater-noida, Zeta 1 , RAHUL TRIVEDI,2,Floor17 out of 22,1200,3958.0,4.75
+211,greater-noida, Sector P4 , R Bhattacharjee,3,Floor7 out of 9,1120,3286.0,0.46
+212,greater-noida, Eta 2, Ashutosh,3,Floor8 out of 25,995,4335.0,0.37
+213,greater-noida, Sector 3 , Sandeep gautam,2,Floor1 out of 2,970,3719.0,0.24
+214,greater-noida, Zeta 1 , vijay,2,Floor8 out of 16,895,2474.0,0.48
+215,greater-noida, Omicron , PRASAD,3,Floor9 out of 14,1775,5363.0,6.54
+216,greater-noida, Greater Noida West , Kamal Bansal,4,Floor18 out of 32,2364,4335.0,0.01
+217,greater-noida, Eta 2, Avik Dey,2,Floor14 out of 26,660,4230.0,0.27
+218,greater-noida, Yamuna Expressway , Harkesh Sharma,1,Floor1 out of 4,4335,4091.0,0.15
+219,greater-noida, Greater Noida West , Bhagat Singh,2,Floor25 out of 25,950,4805.0,0.35
+220,greater-noida, , Mangat Rai,2,Floor16 out of 24,995,3684.0,0.65
+221,greater-noida, Chi 5 , AN SINHA,4,Floor11 out of 22,3210,6533.0,2.1
+222,greater-noida, Jaypee Greens , Nihit,4,Floor6 out of 34,3441,6542.0,3.31
+223,greater-noida, Zeta 1 , Shiv Kumar,4,Floor3 out of 6,2200,9001.0,0.98
+224,greater-noida, Greater Noida West , Right Value Solutions,2,Floor5 out of 15,910,3912.0,4.35
+225,greater-noida, Omicron 1 , Adhunik Propmart,2,Floor11 out of 20,840,4780.0,4.85
+226,greater-noida, Greater Noida West , Homes And Desire,3,Floor6 out of 23,1530,4663.0,0.8
+227,greater-noida, Sector 1 Greater Noida West , Investors Lab,2,Floor19 out of 20,862,5229.0,6.12
+228,greater-noida, Greater Noida West , Vardhman Reality,3,Floor12 out of 24,1055,5322.0,0.56
+229,greater-noida, Greater Noida West , piyush nair,2,Floor26 out of 27,615,5308.0,5.05
+230,greater-noida, Greater Noida West , A Plus Associates,2,Floor17 out of 19,1155,4630.0,0.63
+231,greater-noida, , Bricksnwall Innovations Pvt.Ltd.,2,Floor1 out of 4,950,5020.0,2.55
+232,greater-noida, Noida Extention , Pragati ,3,Floor10 out of 19,840,2429.0,6.89
+233,greater-noida, Sector 1 Greater Noida West , Prof Arora,2,Floor1 out of 5,870,4700.0,0.23
+234,greater-noida, Omicron 3 , Prabhat Sharma,3,Floor20 out of 21,1395,2370.0,0.55
+235,greater-noida, UPSIDC Site C Block H , Gaurav,2,Floor6 out of 14,1115,3943.0,0.44
+236,greater-noida, Sector 16 , sanjeev,3,Floor4 out of 22,1285,3946.0,0.51
+237,greater-noida, Chi 5 , Mohd Sarfaraz,3,Floor7 out of 21,1494,4351.0,0.65
+238,greater-noida, Yamuna Expressway , Atif,2,Express Park View 2,1115,2960.0,0.33
+239,greater-noida, Yamuna Expressway , Sandeep Jain,3,Floor25 out of 25,13750,3636.0,0.5
+240,gurgaon, Jal Vayu Vihar, Mohit,2,Floor22 out of 25,900,8889.0,0.8
+241,gurgaon, Sohna Sector 32 , Nithin Abraham,3,Floor3 out of 3,1789,10061.0,1.8
+242,gurgaon, Kendriya Vihar, Arun Yadav,3,Floor10 out of 14,1500,4335.0,1.5
+243,gurgaon, Sector 23 , Lionel Richie,2,Floor3 out of 10,750,5294.0,0.45
+244,gurgaon, Sohna Sector 35 , Shubham Solanki,1,SocietyKendriya Vihar Sector 56,310,3864.0,0.17
+245,gurgaon, Sector 84 , Anshul,3,Floor1 out of 4,1750,4439.0,0.93
+246,gurgaon, Sector 104 , Ajay Sharma,2,Floor7 out of 10,570,5000.0,0.35
+247,gurgaon, Sector 78 , Pushpendra Sethi,3,Floor19 out of 20,1657,4894.0,8.11
+248,gurgaon, Sector 112 , Y S Dwivedi,3,Floor9 out of 15,3763,12224.0,4.6
+249,gurgaon, Sector 102 , Rahul Arora,4,Floor3 out of 14,1800,9630.0,2.6
+250,gurgaon, Sector 48 , Devesh,3,Monsoon Breeze Phase 2,1300,8000.0,1.2
+251,gurgaon, Sector 7 , RAHUL,3,Floor10 out of 27,900,5143.0,0.54
+252,gurgaon, Sector 55 , Kapur,3,Floor8 out of 22,1950,7179.0,1.4
+253,gurgaon, DLF City Phase 1 , sanjay kaushik,4,Floor4 out of 4,1556,11889.0,1.85
+254,gurgaon, Sector 57 , Naresh,3,Floor3 out of 4,1217,8135.0,0.99
+255,gurgaon, New Colony, Rahul,3,Floor4 out of 9,4335,8213.0,0.85
+256,gurgaon, Sohna Sector 33 , Karun,2,Floor5 out of 6,610,4421.0,0.42
+257,gurgaon, Sector 83 , Gurdeep Singh,3,Floor2 out of 3,1745,5731.0,0.01
+258,gurgaon, Sector 47 , Pradeep Sharma,3,Floor1 out of 4,2470,14170.0,3.5
+259,gurgaon, Sector 37C, Ravinder Chauhan,2,Floor8 out of 10,10372,6503.0,0.93
+260,gurgaon, Sector 9 , Axiom Landbase Pvt. Ltd.,4,FloorGround out of 4,1450,7500.0,1.2
+261,gurgaon, DLF City Phase 1 , Jk Batra,2,Floor1 out of 18,1250,9429.0,1.32
+262,gurgaon, Sector 4 , sunil yadav,4,Floor2 out of 14,1550,7111.0,1.6
+263,gurgaon, South City 2, Rishabh Arora,4,Floor4 out of 9,1800,11190.0,2.35
+264,gurgaon, New Palam Vihar, Pankaj Ahlawat,2,Floor2 out of 3,550,3733.0,0.28
+265,gurgaon, Sector 54 , VIVEK SHARMA,3,City Plot Phase 1,3650,25952.0,10.9
+266,gurgaon, Patel Nagar, Real Estate Gurgaon,3,Floor3 out of 4,960,4182.0,0.46
+267,gurgaon, Sector 77, Akhilesh Sharma ,4,Floor3 out of 4,1500,7692.0,1.5
+268,gurgaon, Sector 65 , Ankush,3,Floor2 out of 4,1500,12473.0,2.28
+269,gurgaon, Sector 65 , Manjunath S,3,FloorGround out of 32,3069,4335.0,0.05
+270,mangalore, Shakti Nagar , Govinda,2,Floor1 out of 3,670,3284.0,0.22
+271,mangalore, Urwa , Varun Nayak,2,Floor6 out of 12,1100,6371.0,0.79
+272,mangalore, Bunts Hostel Road , Jeanson Veigas,3,Floor19 out of 47,1700,3971.0,6.95
+273,mangalore, Urwa , Chethan,2,Floor11 out of 14,1275,4549.0,0.58
+274,mangalore, Kulshekar , Naveen Kamath,3,Floor2 out of 2,1330,3487.0,5.48
+275,mangalore, Kulai , Devdhar Shetty,2,Floor4 out of 5,906,4335.0,0.65
+276,mangalore, Bajpe , Gopal,4,Floor4 out of 8,3030,5882.0,0.02
+277,mangalore, Ujire , Stany,3,Floor3 out of 4,4335,4335.0,1.01
+278,mangalore, Bondel , Brahmari Vilas,3,Floor6 out of 14,1390,4676.0,0.65
+279,mangalore, Kateel , Baptist Dcunha,2,Floor7 out of 25,1260,3070.0,0.35
+280,mangalore, K, Priya,1,Floor22 out of 23,660,2879.0,0.19
+281,mangalore, Shakti Nagar , Iqbal ,2,Floor5 out of 5,1166,4335.0,0.4
+282,mangalore, Falnir , Santosh Babu Salian,3,Floor2 out of 4,3900,4615.0,1.8
+283,mangalore, Kulai , Hassan,2,Floor1 out of 4,975,6667.0,0.65
+284,mangalore, Kadri , Rajesh Antony Fernandes,2,Floor12 out of 14,1390,5396.0,0.75
+285,mangalore, Padil , jaysen,3,Floor5 out of 6,1070,4533.0,4.85
+286,mangalore, Kulai , Govinda Sharma,3,Floor14 out of 23,1870,4813.0,0.9
+287,mangalore, Urwa , hashura,2,Floor7 out of 13,1040,6371.0,0.79
+288,mangalore, Falnir , Lance,2,Floor9 out of 9,1000,6500.0,0.65
+289,mangalore, Jepp, Arwin,2,Floor7 out of 19,1320,3788.0,0.5
+290,mangalore, Derebail , sharath kumar,2,Floor4 out of 5,783,5911.0,0.6
+291,mangalore, Mulky , Sameer,2,Floor3 out of 4,72,3507.0,0.35
+292,mangalore, , Sabeena Farhath,2,Floor5 out of 5,1000,3200.0,0.32
+293,mangalore, Pandeshwar , Suman Kumar,2,Floor2 out of 5,1330,5639.0,0.75
+294,mangalore, Ashok Nagar , pkumar,3,Floor4 out of 5,1356,5913.0,1.01
+295,mangalore, Konchady Cross Road , James D'SA,2,Floor4 out of 4,884,4525.0,0.4
+296,mangalore, Pumpwell , roshan,3,Floor1 out of 16,1613,6366.0,1.2
+297,mangalore, Mukka , Sunil Veigas,2,Floor1 out of 4,1100,3750.0,0.45
+298,mangalore, Nandigudda , SNEHA,3,Floor3 out of 5,1341,4335.0,6.85
+299,mangalore, Yeyyadi Indl. Estate , D Suryaprakash,2,Floor3 out of 5,1200,3491.0,0.48
+300,raipur, Daldal Seoni , Bhumika Bansal,2,Floor5 out of 5,970,2577.0,0.25
+301,raipur, Mowa , carlus,3,Floor4 out of 4,1200,4968.0,0.77
+302,raipur, Avanti Vihar , Vaibhav Shukla,3,Floor4 out of 4,1985,3426.0,0.68
+303,raipur, Shankar Nagar , Khushboo Kashyap,2,Floor2 out of 5,840,6190.0,0.52
+304,raipur, Santoshi Nagar , Deekaha,3,Floor6 out of 6,1250,2327.0,2.91
+305,raipur, Naya Raipur , Divya Singh,2,Floor4 out of 6,943,3372.0,3.18
+306,raipur, Hirapur Road , Arpit Jain,3,Floor5 out of 5,799,3368.0,3.25
+307,raipur, VIP Road , Mahesh,2,Basement out of 4,900,3333.0,0.3
+308,raipur, Mathpurena , geeta shrivastava,2,Floor5 out of 8,1050,4000.0,0.42
+309,raipur, Boria Kalan , ajit singh,2,Floor3 out of 10,487,1540.0,0.75
+310,raipur, Amlidhi , Prem Pvt Ltd,2,FloorGround out of 3,700,2706.0,0.23
+311,raipur, Bhatagaon , vijay,2,Floor1 out of 4,815,3099.0,3.15
+312,raipur, Kabir Nagar , Siddharth Buildcon,1,Floor1 out of 3,505,2772.0,0.14
+313,raipur, Shankar Nagar , Kusum kumari,2,Floor2 out of 6,866,3000.0,0.35
+314,raipur, Hirapur Road , Priyesh Gupta,2,Floor3 out of 8,721,3467.0,0.25
+315,raipur, NH 6 , Devinder Singh,3,Floor6 out of 6,1200,2538.0,0.33
+316,raipur, Shankar Nagar , womesh womesh,2,Floor10 out of 10,1030,2913.0,0.3
+317,raipur, Deopuri , sandip Agarwal,3,Floor7 out of 10,1500,1852.0,3.33
+318,raipur, Kota , Chainika,3,Floor3 out of 6,1805,7479.0,1.35
+319,raipur, Amlidhi , Karnjeet Biswas,2,Floor3 out of 5,1230,3984.0,0.49
+320,raipur, Hirapur Road , TEJESHWARI SAHU,3,Floor7 out of 11,965,3109.0,0.3
+321,raipur, Santoshi Nagar , Mitchell,3,Floor4 out of 7,1250,2327.0,2.91
+322,raipur, Boria Kalan , Angad Lalwani,3,Floor4 out of 8,1337,3143.0,0.33
+323,raipur, Shankar Nagar , achyutananda,3,Floor5 out of 11,960,3600.0,4.34
+324,raipur, Amleshwar , Manoj mati,3,FloorGround out of 4,1200,2778.0,0.25
+325,raipur, Amlidhi , vidyadhar behra,2,Floor1 out of 1,1000,3600.0,0.36
+326,raipur, Kachna Road , Sumit Wadhwani,3,Floor2 out of 10,1500,2860.0,4.29
+327,raipur, Mowa , Saurabh upadhyay,2,Floor2 out of 4,860,2326.0,0.2
+328,raipur, Amanaka , Shubham Soni,1,Floor3 out of 6,550,2273.0,1.25
+329,raipur, Daldal Seoni , Vikas Gulati,2,Floor5 out of 10,906,2759.0,0.25
+330,agra, Sikandra , vishal sharma,2,Floor4 out of 6,900,2833.0,2.55
+331,agra, Vibhav Nagar , Arnav Singh,3,Floor2 out of 3,1540,2753.0,4.35
+332,agra, Vijay Nagar Colony , Vinod Kumar,2,Floor1 out of 6,1250,5440.0,0.68
+333,agra, Civil L, Deepika Chahar,2,Floor3 out of 8,850,3097.0,0.35
+334,agra, Dayal Bagh , Shikha,5,Floor3 out of 4,4335,4500000.0,1.35
+335,agra, Civil L, Shubham Kumar,2,Floor2 out of 6,1050,6190.0,0.65
+336,agra, Shastri Puram , hemant sharma,2,Floor2 out of 5,848,3589.0,4.44
+337,agra, Agra Shamshabad Raja Kherah Marg , Prem lal Taneja,3,Floor1 out of 2,1350,2481.0,3.35
+338,agra, Dayal Bagh , Yatendra kumar mehrotra,3,Floor2 out of 5,1050,4000.0,0.42
+339,agra, Dayal Bagh , Umang Mathur,3,Floor8 out of 9,1400,3000.0,0.48
+340,agra, Dayal Bagh , Akshit Rajoriya,3,Floor1 out of 10,4335,4695.0,0.47
+341,agra, Fatehabad Road , Sanjeev Singh,2,Floor2 out of 2,1192,3400.0,4.05
+342,agra, Agra Shamshabad Raja Kherah Marg , nitin singh,2,Floor1 out of 2,1115,2511.0,0.28
+343,agra, Sikandra , ajay kumar,2,Floor1 out of 3,1000,3167.0,0.35
+344,agra, Sikandra , Divya pandey,2,Floor9 out of 11,660,2500.0,1.75
+345,agra, Dayal Bagh , GALAXY PRINT PACK,3,FloorGround out of 3,1675,3582.0,0.6
+346,agra, Sikandra , SHWETANG SHARMA,5,Floor3 out of 5,2410,3997.0,8.19
+347,agra, Fatehabad Road , PRAVEEN KUMAR,3,Floor7 out of 10,4335,2555.0,0.55
+348,agra, Shastri Puram , Sapna,2,Floor4 out of 14,862,3200.0,0.4
+349,agra, Shastri Puram , Ganpati World,2,Floor5 out of 9,1250,3359.0,0.42
+350,agra, Fatehabad Road , Shrey Shankar,3,Floor3 out of 13,1400,2627.0,0.44
+351,agra, Sikandra , Rakesh Agarwal ,3,Floor1 out of 11,1800,3611.0,0.65
+352,agra, Shahganj , Sanchit gupta,2,Floor2 out of 11,1750,3328.0,5.99
+353,agra, Fatehabad Road , PRASHANT,3,Floor7 out of 15,1675,3045.0,0.51
+354,agra, Gwalior Road , adil hussain,2,Floor1 out of 10,960,2264.0,0.24
+355,agra, Agra Shamshabad Raja Kherah Marg , Mohini Sharma,2,Floor3 out of 4,940,3745.0,0.44
+356,agra, Sector 16B Awas Vikas Colony , vivek jain,2,Floor11 out of 14,1425,4561.0,0.65
+357,agra, Fatehabad Road , VIMAL TIWARI,3,Floor2 out of 2,926,2592.0,0.24
+358,agra, Shastri Puram , Dr Archika Gupta Dr Archika,2,Floor12 out of 12,861,3944.0,4.13
+359,agra, Rakabganj , Amit Kumar Saini,3,Floor3 out of 9,1500,6000.0,0.9
+360,bhiwadi, Alwar Bypass Road , Radha Kanha,2,Floor9 out of 9,1165,4077.0,0.38
+361,bhiwadi, , M K Realtech,2,Floor2 out of 11,555,1846.0,0.12
+362,bhiwadi, Alwar Bypass Road , R K Real Estate,2,Floor2 out of 6,980,1941.0,0.23
+363,bhiwadi, Alwar Bypass Road , Vikram,1,Floor6 out of 13,466,2167.0,0.13
+364,bhiwadi, Alwar Bypass Road , Amita Singh,2,Floor5 out of 6,1234,2917.0,0.36
+365,bhiwadi, Alwar Bypass Road , Raj Singh,2,Floor7 out of 10,750,2118.0,0.18
+366,bhiwadi, Alwar Bypass Road , Dharm Chauhan,2,Floor3 out of 13,780,2244.0,0.23
+367,bhiwadi, Alwar Bypass Road , Sunil Kumar,2,Floor3 out of 13,650,2077.0,1.35
+368,bhiwadi, Alwar Bypass Road , vineet,1,Floor1 out of 9,630,1746.0,0.11
+369,bhiwadi, Alwar Bypass Road , Sandeep singh,1,Floor4 out of 14,600,2585.0,1.68
+370,bhiwadi, Alwar Bypass Road , Ashok Sood,3,Floor13 out of 15,1430,2587.0,0.37
+371,bhiwadi, Bhiwadi Mod , munish,1,Basement out of 15,660,4242.0,0.28
+372,bhiwadi, Tapukara , Brahmprakash,2,Floor9 out of 16,815,1840.0,0.15
+373,bhiwadi, Alwar Bhiwadi Road , Satish,2,Floor2 out of 14,1250,1500.0,1.88
+374,bhiwadi, Vasundhara Nagar , Sachinrajput,2,Floor2 out of 4,1170,2393.0,0.28
+375,bhiwadi, Alwar Bypass Road , Sunil Kumar,2,Floor8 out of 13,1111,1611.0,1.79
+376,bhiwadi, Alwar Bypass Road , Shailender,2,Floor15 out of 15,1000,1900.0,0.19
+377,bhiwadi, Alwar Bypass Road , Sumit Kumar,2,Floor5 out of 7,1150,2348.0,0.27
+378,bhiwadi, Alwar Bypass Road , Rahul Rijhwani,2,Floor4 out of 9,829,2790.0,3.25
+379,bhiwadi, Alwar Bypass Road , darshan kumar,2,Floor9 out of 14,700,1503.0,1.45
+380,bhiwadi, Alwar Bypass Road , Chandresh,2,Floor13 out of 14,950,2211.0,0.21
+381,bhiwadi, Alwar Bypass Road , Rahul Chauhan,2,Floor11 out of 16,1250,2400.0,0.3
+382,bhiwadi, Alwar Bypass Road , Narendra Kumar Agarwal,2,Floor11 out of 15,1150,1913.0,0.22
+383,bhiwadi, Rampura , Vivek Anand Semwal,2,SocietyAvalon Residency Phase 2,599,2367.0,0.2
+384,bhiwadi, Alwar Bypass Road , Vibhu,2,Floor12 out of 15,750,2667.0,0.2
+385,bhiwadi, Alwar Bypass Road , SANCHITA,3,Floor9 out of 15,1590,3711.0,0.59
+386,bhiwadi, Vasundhara Nagar , kuldeep tomer,3,Floor9 out of 12,1522,3285.0,0.5
+387,bhiwadi, Tapukara , Parveen khanna,2,Floor7 out of 14,500,1818.0,0.1
+388,bhiwadi, Alwar Bypass Road , Pardeep N/A ,1,Floor14 out of 14,630,2857.0,0.18
+389,bhiwadi, Alwar Bypass Road , Vijay,2,Floor4 out of 9,790,3797.0,0.3
+390,mysore, Gokulam , Ravi Nambiar,3,Floor2 out of 5,1650,3509.0,0.8
+391,mysore, Bogadi , Pick Your Prop Estates LLP,4,Floor9 out of 14,1487,4110.0,0.6
+392,mysore, JP Nagar , Veena,2,Floor2 out of 13,1095,7556.0,0.45
+393,mysore, Yadavgiri , Amar Kumar Prasad,2,SocietyKrish City Phase 2,9,6611.0,0.68
+394,mysore, Yadavgiri , Jagadeesha,2,Floor2 out of 4,1280,4335.0,0.95
+395,mysore, Hebbal , Meghana,1,Floor6 out of 8,400,4296.0,0.58
+396,mysore, Vijayanagar 4th Stage , Shashi,2,Floor3 out of 8,1400,5857.0,0.82
+397,mysore, Bogadi , Satish Krishna,3,Floor2 out of 2,1174,4940.0,0.58
+398,mysore, Sharadadevi Nagar , ARUN,4,Floor1 out of 4,650,4762.0,0.5
+399,mysore, Alanahalli , subbareddy subbareddy,2,Floor4 out of 4,1050,6071.0,0.85
+400,mysore, Vijaynagar 3rd Stage , Mallesh,2,Floor4 out of 5,890,5115.0,0.58
+401,mysore, Belagola , Karthik,4,Floor8 out of 8,2000,4208.0,1.01
+402,mysore, , Nanda,2,Floor2 out of 3,911,6586.0,0.6
+403,mysore, Visveshwara Nagar , Mohammed Mansoor,2,Floor2 out of 4,1280,4375.0,0.56
+404,mysore, , Shriya Mankani,2,Floor3 out of 4,800,3863.0,0.48
+405,mysore, Siddhartha Layout , Nataraj D M,2,Basement out of 1,1095,4000.0,6.57
+406,mysore, Vidyarayanapuram , Narasimha murthy,3,Floor1 out of 4,1553,4335.0,0.6
+407,mysore, Srirangapatnam , Vijay Menon,3,Floor3 out of 4,1875,4335.0,0.75
+408,mysore, JP Nagar , Prakash,3,Floor1 out of 5,1681,4462.0,0.75
+409,mysore, Bogadi , G S ANANTHA,3,Floor2 out of 4,1400,5000.0,0.7
+410,mysore, Chamarajapura , Gowrish Bhaskar,2,Floor3 out of 6,1019,5103.0,0.52
+411,mysore, Metagalli , Ramachandra Murthy,3,FloorGround out of 10,2200,6591.0,1.45
+412,mysore, Jaya Laxmi Puram , Thulaseedharan pillai A,3,Floor3 out of 4,1380,5743.0,0.85
+413,mysore, Hebbal 2nd Stage , Rathan,2,Floor7 out of 7,1100,14818.0,1.63
+414,mysore, Lakshmipuram , sheelavathi,3,Floor4 out of 7,1650,4848.0,0.8
+415,mysore, , Nayana A.S,2,FloorGround out of 3,1070,6389.0,0.4
+416,mysore, Kuvempunagar , Srikanth,2,Floor1 out of 3,1080,5000.0,0.69
+417,mysore, , MANJUNATHA,2,FloorGround out of 2,1200,4335.0,0.6
+418,mysore, V V Mohalla , Chakko,2,FloorGround out of 5,900,6667.0,0.6
+419,mysore, Sriramapura ,4335.0,2,Floor1 out of 3,1115,6457.0,0.72
